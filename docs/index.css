@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  display: flex;
+  height: 100%;
+}
+
+.element {
+  text-align: center;
+  margin: auto;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+p {
+  font-size: 3em;
+  text-align: center;
+  margin-top: 0px;
+}
