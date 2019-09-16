@@ -8,7 +8,7 @@ function goNextWord() {
   console.log('clicked');
   var word = document.getElementById("word");
   word.innerHTML = words[n];
-  word.setAttribute("href", "https://www.google.com/search?q="+encodeURI(word.innerHTML+' 意味'));
+  word.setAttribute("href", "https://www.google.com/search?q="+encodeURI('define:'+word.innerHTML));
   n ++;
   if (n >= word.length) n = 0;
 }
