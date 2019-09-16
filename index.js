@@ -17,7 +17,11 @@ function readWords(filename, easywords) {
         if (line.trim().indexOf('-') !== 0) {
           const t = line.trim().split('|');
           if (!easywords[t[0]]) {
-            retval.push({ word: t[0], literal: t[1].split(' ') });
+            if (t.length > 1) {
+              retval.push({ word: t[0], literal: t[1].split(' ') });
+            } else {
+              retval.push({ word: t[0], literal: [] });
+            }
           }
         }
     });
