@@ -35,12 +35,21 @@ p {
   margin-top: 0px;
 }
 
-textarea,
-input.text,
-input[type="text"],
-input[type="button"],
 input[type="submit"],
-.input-checkbox {
-  -webkit-appearance: none;
+input[type="button"] {
   border-radius: 0;
+  -webkit-box-sizing: content-box;
+  -webkit-appearance: button;
+  appearance: button;
+  border: none;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+input[type="submit"]::-webkit-search-decoration,
+input[type="button"]::-webkit-search-decoration {
+  display: none;
+}
+input[type="submit"]::focus,
+input[type="button"]::focus {
+  outline-offset: -2px;
 }
