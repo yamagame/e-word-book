@@ -27,12 +27,20 @@ body {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  -webkit-appearance: none;
-  border-radius: 0;
 }
 
 p {
   font-size: 3em;
   text-align: center;
   margin-top: 0px;
+}
+
+textarea,
+input.text,
+input[type="text"],
+input[type="button"],
+input[type="submit"],
+.input-checkbox {
+  -webkit-appearance: none;
+  border-radius: 0;
 }
