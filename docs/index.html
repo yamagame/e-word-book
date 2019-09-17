@@ -11,7 +11,10 @@
   <div class="container">
     <div class="element">
       <p><a id="word" target="english-word-book" href="">English</a></p>
-      <input id="next" class="button" type="button" value="Next" onClick="goNextWord();"/>
+      <p id="count">0/0</p>
+      <input id="YES" class="button ok" type="button" value="YES" onClick="goNextWord('YES');"/>
+      <input id="NO" class="button ng" type="button" value="NO" onClick="goNextWord('NO');"/>
+      <p id="time">00:00</p>
     </div>
   </div>
   <script src="e-word-data.js"></script>

@@ -57,3 +57,19 @@ input[type="submit"]::focus,
 input[type="button"]::focus {
   outline-offset: -2px;
 }
+
+.ng {
+  background-color: red;
+}
+
+p#count {
+  margin-top: 10px;
+  font-size: 1.2em;
+  color: lightgray;
+}
+
+p#time {
+  margin-top: 10px;
+  font-size: 1.2em;
+  color: lightgray;
+}
