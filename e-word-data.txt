@@ -445,7 +445,6 @@ curfew
 reciprocal inspections
 eligible voter
 clandestine project
-clandestine
 surveillance
 abdication
 deliberation
@@ -703,7 +702,6 @@ bulimia
 paramedics
 vegetative state
 congenital disease
-quarantine
 orthopedics
 whip-lash injury
 sterilization
@@ -912,7 +910,6 @@ plam
 collarbone
 shoulder blade
 rib
-bone marrow
 ligament
 navel
 scalp
@@ -1038,7 +1035,6 @@ subjunctive
 torment
 distress
 avow
-proclaim
 preserve
 opt
 cull
@@ -1064,7 +1060,6 @@ arbitrate
 fall behind
 keep up with
 jet lag
-envisage
 conjure up
 rebuke
 chastise
@@ -1084,7 +1079,6 @@ fritter away
 uphold
 cleave
 stick
-impound
 seize
 interrogate
 query
@@ -1120,7 +1114,6 @@ pertinent
 properly
 bungle
 fummble
-flounder
 stumble
 disprove
 rebut
@@ -1138,7 +1131,6 @@ juxtapose
 comprehensive
 snowbound
 maroon
-run aground
 poke around
 belittle
 disparage
@@ -1156,7 +1148,6 @@ entitle
 squint
 eradicate
 displace
-conjure up
 summon
 resort to
 pigeonhole
@@ -1167,11 +1158,9 @@ explosive
 disintegrate
 waver
 sway
-stumble
 engender
 hinder
 hamper
-tadpole
 emerge
 uncertain
 protestation
@@ -1182,11 +1171,8 @@ imprison
 remain in custody
 slog
 plod
-pathetic
 reclaim
 atone for
-vindicate
-hinder
 impede
 totter
 stumble around
@@ -1199,14 +1185,12 @@ outwit
 liberate
 quarantine
 dissatisfaction
-eradicate
 obliterate
 exterminate
 counterfeit
 hammer out
 far behind
 smudge
-denigrate
 ethnic leader
 perpetrators
 racist
@@ -1218,7 +1202,6 @@ ostracize
 deport
 discipline
 epidemic
-detain
 burial
 digress
 union
@@ -1255,11 +1238,9 @@ swallowed up
 clasp
 scrabble
 scuffle
-lackluster
 imbued with
 mock
 jeer at
-avow
 confide in
 deduce
 infer
@@ -1267,7 +1248,6 @@ conjecture
 drag out
 prolong
 comb
-rake
 modelled on
 followed suit
 tamper with
@@ -1278,19 +1258,15 @@ stretch out
 shrink
 grater
 grind
-mill
 shred
 aggravate
 intensify
 glimpse
 leisure
-apprehend
-painstaking
 resent
 envy
 regard
 affect
-discharge
 perform
 underprivilage
 oppress
@@ -1308,7 +1284,6 @@ mural
 brochure
 prospectus
 feasibility
-preliminary
 diploma
 enthusiastic
 reliable
@@ -1329,8 +1304,6 @@ feature
 featuring
 fliers
 bumper sticker
-full-fledged
-dilapidated
 ideal
 prominent
 instance
@@ -1338,11 +1311,8 @@ pharmaceutical
 acquisition
 intention
 colleague
-precinct
 refund
-discretion
 admit
-subsidiary
 facilitate
 remarkable
 polish
@@ -1359,7 +1329,6 @@ evaluate
 objectivity
 jury
 expertise
-relevant
 inception
 behavioral
 demand
@@ -1369,7 +1338,6 @@ garment
 hospitable
 composition
 terminology
-disburse
 gnerously
 give away
 facility
@@ -1391,7 +1359,6 @@ matter
 truly
 herald
 cordially
-venue
 outstanding
 substantial
 auspicious
@@ -1419,13 +1386,11 @@ serve
 pricey
 terrific
 spacious
-obesity
 adolescent
 moderate
 esteem
 emphasizing
 physical activity
-enthusiastic
 specializing
 versatile
 spectrum
@@ -1437,17 +1402,13 @@ property
 filing
 lender
 redemption
-foreclosure
 grace
 due
 indicate
 posted on
 posted to
 posted at
-representative
 inadvertent
-discretion
-discrepancy
 gourment
 critic
 dainty
@@ -1459,24 +1420,18 @@ thrive
 authentic
 administer
 effectiveness
-pertain
-imperative
 abundant
 willing
-waive
 extensive
 diversify
 budget
 phenomenal
 affiliate
-probation
-discharge
 proper
 worthwhile
 payable
 direct
 forward
-organize
 submit
 forthcoming
 resilient
@@ -1516,7 +1471,6 @@ explicit
 reciprocal
 plausible
 sluggish
-prestigious
 unanimous
 complimentary
 marginal
@@ -1551,12 +1505,8 @@ respond
 correspond
 revive
 undermine
-acknowledge
-accommodate
-solicit
 curb
 undergo
-facilitate
 impose
 deliver
 adapt
@@ -1597,7 +1547,6 @@ exhibit
 indispensable
 grave
 exhausitive
-explicit
 forgone
 retrieve
 liability
@@ -1606,7 +1555,6 @@ confiscation
 goodwill
 litigation
 defiance
-certificate
 credential
 accountability
 non-compliance
@@ -1636,13 +1584,11 @@ scrutiny
 perquisite
 turnout
 turnaround
-brochure
 confirmation
 apparatus
 proficiency
 collapse
 dominance
-prospectus
 outlay
 participation
 negligence
@@ -1656,8 +1602,8 @@ singularly
 grime
 second to none
 honor
-indicate
 suggest
-suppose
 get underway
 equity
+prop
+fixture

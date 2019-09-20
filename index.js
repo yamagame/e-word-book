@@ -18,9 +18,9 @@ function readWords(filename, easywords) {
           const t = line.trim().split('|');
           if (!easywords[t[0]]) {
             if (t.length > 1) {
-              retval.push({ word: t[0], literal: t[1].split(' ') });
+              retval.push({ word: t[0].trim(), literal: t[1].split(' ') });
             } else {
-              retval.push({ word: t[0], literal: [] });
+              retval.push({ word: t[0].trim(), literal: [] });
             }
           }
         }
@@ -40,8 +40,15 @@ function writeWords(filename, words) {
       resolve();
     });
     writeStream.write( `var words=[\n` );
+    const t = {}
     words.forEach( v => {
-      writeStream.write( `\t'${v.word}',\n` );
+      if (t[v.word]) {
+        console.log(`dup ${v.word}`);
+      }
+      t[v.word] = true;
+    })
+    Object.keys(t).forEach( v => {
+      writeStream.write( `\t'${v}',\n` );
     })
     writeStream.write( `]\n` );
     writeStream.end();
