@@ -306,7 +306,7 @@ var words=[
 	'tacit',
 	'tangible',
 	'vulnerable',
-	'mential',
+	'menial',
 	'pragmatic',
 	'judicious',
 	'unscathed',
@@ -2486,4 +2486,5 @@ var words=[
 	'pillage',
 	'prudence',
 	'mutate',
+	'minuscule',
 ]

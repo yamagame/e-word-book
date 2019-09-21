@@ -305,7 +305,7 @@ prudent
 tacit
 tangible
 vulnerable
-mential
+menial
 pragmatic
 judicious
 unscathed
@@ -2485,3 +2485,4 @@ plunder
 pillage
 prudence
 mutate
+minuscule
