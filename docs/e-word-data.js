@@ -2085,7 +2085,7 @@ var words=[
 	'skulk',
 	'prowl',
 	'scarce',
-	'scannt',
+	'scant',
 	'plentiful',
 	'benign',
 	'conceivable',

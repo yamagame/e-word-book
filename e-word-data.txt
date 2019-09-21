@@ -2084,7 +2084,7 @@ creep
 skulk
 prowl
 scarce
-scannt
+scant
 plentiful
 benign
 conceivable
