@@ -2302,7 +2302,6 @@ refurbish
 obsessive
 luster
 sheen
-egligible
 dispel
 orchestrate
 frugal
@@ -2423,7 +2422,7 @@ delectable
 wreckage
 ammunition
 decomposition
-breakedown
+breakdown
 malice
 pious
 antipathy
