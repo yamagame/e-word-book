@@ -10,7 +10,7 @@ function getRandomInt(max) {
 function setWord(w) {
   var word = document.getElementById("word");
   word.innerHTML = w;
-  word.setAttribute("href", "https://www.google.com/search?q="+encodeURI(word.innerHTML+' 意味'));
+  word.setAttribute("href", "https://www.google.com/search?q="+encodeURI(word.innerHTML+' 英語 意味'));
   var count = document.getElementById("count");
   count.innerHTML = a+'/'+n;
 }
