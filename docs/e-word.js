@@ -44,5 +44,3 @@ for (var i=0;i<words.length;i++) {
   words[a] = words[b];
   words[b] = c;
 }
-
-setWord('English');

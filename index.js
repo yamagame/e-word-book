@@ -56,8 +56,10 @@ function writeWords(filename, words) {
 }
 
 async function main() {
-  const words = await readWords(path.join(__dirname, 'e-word-data.txt'), {});
-  await writeWords(path.join(__dirname, 'docs' ,'e-word-data.js'), words);
+  const words1 = await readWords(path.join(__dirname, 'e-word-data.txt'), {});
+  await writeWords(path.join(__dirname, 'docs' ,'e-word-data.js'), words1);
+  const words2 = await readWords(path.join(__dirname, 'e-word-highschool.txt'), {});
+  await writeWords(path.join(__dirname, 'docs' ,'e-word-highschool.js'), words2);
 }
 
 main();
