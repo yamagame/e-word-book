@@ -18,9 +18,9 @@ function readWords(filename, easywords) {
           const t = line.trim().split('|');
           if (!easywords[t[0]]) {
             if (t.length > 1) {
-              retval.push({ word: t[0].trim(), literal: t[1].split(' ') });
+              retval.push({ word: t[0].trim().replace("'","\\'"), literal: t[1].split(' ') });
             } else {
-              retval.push({ word: t[0].trim(), literal: [] });
+              retval.push({ word: t[0].trim().replace("'","\\'"), literal: [] });
             }
           }
         }
