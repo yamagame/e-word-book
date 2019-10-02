@@ -146,7 +146,6 @@ anything
 anytime
 anyway
 anywhere
-anzen
 apart
 apparent
 appeal
@@ -190,7 +189,6 @@ at
 athlete
 atlantic
 atmosphere
-ato
 atomic
 attach
 attack
@@ -634,7 +632,7 @@ define
 definite
 definition
 degree
-degree Celsius
+degree celsius
 delay
 deliberately
 delicate
@@ -756,7 +754,6 @@ dull
 during
 dwell
 dying
-e(-)mail
 each
 eager
 ear
@@ -1538,7 +1535,6 @@ myself
 mysterious
 mystery
 myth
-nagare
 nail
 name
 narrow
@@ -1578,7 +1574,6 @@ nineteenth
 ninety
 ninth
 no
-noberu
 nobody
 nod
 noisy
