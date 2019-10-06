@@ -1,34 +1,10 @@
-december
-europe
-february
-french
-french fries
-friday
-god
-halloween
-indian
-internet
-italian
-january
-july
-june
-march
-may
-monday
-november
-october
-olympics
-paralympics
-saturday
-september
-spanish
-sunday
-thursday
-tuesday
-wednesday
-world heritage
 abandon
+abbreviation
+abdomen
+abduct
+abduction
 able
+abnormal
 about
 above
 abroad
@@ -37,18 +13,26 @@ absolute
 absolutely
 absorb
 abstract
+abuse
 accent
 accept
 acceptance
 access
 accident
+accidental
+accommodate
+accommodation
 accompany
 accomplish
+according
 account
 accurate
 accuse
 accustomed
 achieve
+achievement
+acid
+acid rain
 acknowledge
 acquaintance
 acquire
@@ -60,34 +44,53 @@ activity
 actor
 actual
 actually
+acute
 adapt
 add
+addict
+addictive
 addition
 additional
+additive
 address
 adequate
 adjust
+administer
+administration
+administrative
+administrator
+admirable
+admiration
 admire
 admit
 adopt
+adrenaline
 adult
+adultery
 advance
 advantage
 adventure
 advertise
+advertisement
 advice
 advise
 affair
 affect
 affection
+affluence
+affluent
 afford
+affordable
 afraid
 after
+aftereffect
 afternoon
 again
 against
 age
+agenda
 agent
+aggravate
 aggression
 aggressive
 ago
@@ -98,13 +101,22 @@ aid
 aim
 air
 air conditioner
+air range
+airfare
 airport
+aisle
+akin
 alarm
+alarming
 album
+alien civilization
 alike
 alive
 all
+allocate
+allocation
 allow
+alloy
 almost
 alone
 along
@@ -117,15 +129,29 @@ although
 altogether
 always
 am
+amalgamate
 amazing
 ambition
+ambitious
+ambulance
+amend
+amendment
+america
+american
 among
+amongst
 amount
+ample
 amuse
+amusement
+analysis
+analyst
 analyze
 ancestor
 ancient
 and
+anecdote
+anesthesia
 anger
 angry
 animal
@@ -135,8 +161,15 @@ anniversary
 announce
 annoy
 annual
+annually
+anonymous
 another
 answer
+anticipate
+anticipation
+anticipatory
+antipersonnel
+antitank
 anxiety
 anxious
 any
@@ -147,18 +180,35 @@ anytime
 anyway
 anywhere
 apart
+apartment 
+apiece
 apparent
 appeal
 appear
 appearance
+appendectomy
+appendicitis
+appendix
 appetite
 apple
 application
 apply
+appoint
 appointment
+appraise
+appreciate
+appreciation
 approach
+approaching
 appropriate
+approval
+approve
+approximate
+approximately
+april
 architect
+architectural
+architecture
 are
 area
 argue
@@ -166,56 +216,99 @@ arise
 arm
 arms
 around
+around the clock
+around the corner
 arrange
 arrangement
+arrest
 arrival
 arrive
 art
+art gallery
+article
 artificial
 artist
+artwork
 as
+as well as
+ascend the throne
+ashes to ashes
+asia
+asian
 ask
 asleep
 aspect
+aspire to
+assault
+assembly
+assert
+assertion
+assertive
+assertively
+assess
+assessment
+assign
 assistant
 associate
 association
 assume
 assumption
 assure
+asteroid
 astonish
 astronaut
 at
 athlete
+athletic
 atlantic
 atmosphere
 atomic
+atrium
 attach
+attachment
 attack
+attain
 attempt
 attend
 attention
+attentive
 attitude
+attorney
 attract
+attraction
 attractive
 audience
+august
 aunt
+australia
+australian
+authentic
+authenticity
 author
 authority
+authorize
+authorized
 automobile
 autumn
 available
 avenue
 average
 avoid
+avoidance
 awake
 aware
 away
 awful
 baby
+baby boom
+babysit
+babysitter
 back
+back and forth
 background
+bacteria
 bad
+bad luck
 badly
 badminton
 bag
@@ -223,22 +316,38 @@ bakery
 balance
 ball
 balloon
+ballpark
+ballpark figure
 bamboo
 banana
 band
+bandage
 bank
+bankrupt
+bankruptcy
+baptismal
+baptismal ceremony
+baptismal font
+bar
+bar exam
 barely
+barium
 baseball
 based
+basement
 basic
 basis
 basketball
+bastion
 bath
 bathroom
+battle it out
+battlefield
 be
 beach
 bear
 beat
+beautician
 beautiful
 beauty
 because
@@ -248,6 +357,7 @@ bedroom
 beef
 been
 before
+beforehand
 beg
 begin
 beginner
@@ -263,81 +373,144 @@ belt
 bench
 bend
 beneath
+beneficial
 benefit
+benign
 beside
 best
 better
+betting ticket
 between
+beyond
+bias
 bicycle
+bidder
 big
 bike
 bill
 bind
 biological
+biotech
+biotechnological
 bird
 birth
 birthday
 bite
 bitter
+bizarre
 black
 blackboard
+blame
+bless
+blessed
 blind
 blink
 block
 blog
 blood
+blood transfusion
 blow
+blowfish
 blue
+board
+board meeting
+boast
 boat
 body
+body boutique
+body fat ratio
 boil
 bomb
+bone mass
 book
 bookstore
+boom
 border
 bored
 boring
 born
 borrow
 both
+bother
 bottle
 bottom
+boundary
 bow
+bowel
+bowel movement
 box
 boy
 brain
+brainstorm
+brainstorming
+branch
 brass band
 brave
+brazil
 bread
 break
+break up
+breakdown
 breakfast
+breakup
+breast
+breath
 breathe
+breathless
+breed
+breeder
 bridge
 brief
+briefing
 bright
 brilliant
 bring
+british
+broad
 broadcast
+broaden
+broadway
+broker
 brother
 brown
 brush
+buck
+budget
 build
 building
+bulge
+bulky
+bummer
+bump into
+bumper
+buoy
+buoyancy
+buoyant
 burden
+burial
 burn
+burn up
 burst
 bury
 bus
 bus stop
 business
+business lunch
+business opportunity
+business trip
 busy
 but
+butt
 butter
 button
 buy
+buy on impulse
+buzzword
 by
+cabin
 cafeteria
 cake
+calamity
 calendar
 call
 calligraphy
@@ -346,81 +519,132 @@ camera
 camp
 campaign
 can
+canada
+cancer
+candidacy
 candidate
 candle
 candy
 cap
+capability
 capable
 capacity
 capital
 capital letter
+capital punishment
 captain
 capture
 car
+carbohydrate
+carbon dioxide
+carbon footprint
 card
+cardiopulmonary
 care
 career
+carefree
 careful
 carefully
+carful
 carpenter
+carpool
+carpool lane
 carrot
 carry
+carry out
+cart
 cartoon
 cartoonist
 case
 cash
+cashier
+casino
+casket
 castle
 casual
+casual friday
 cat
+catastrophe
+catastrophic
 catch
 category
 cause
 cave
 cease
+ceiling
 celebrate
+celebrity
 cell
+cellar
 cellphone
+census
 cent
 center
 centimeter
 century
+cereal
+ceremony
 certain
+certainly
+certainty
+certification
+certify
+cessation
 chain
 chair
 challenge
+challenging
 champion
 championship
 chance
 change
+change out of
+change planes
 character
 characteristic
 characterize
 charge
+charitable cause
 charity
 charm
 chart
+chase
+chaser
+chauffeur
 cheap
 check
+check it out
+checkout
 cheer
 cheerful
 cheerfully
 cheese
 chef
 chemical
+chemist
+chemistry
 cherry blossom
 cherry tree
-chian
 chicken
+chief engineer
 child
+child abuse
+child section
+china
+chinese
 chocolate
 choice
 choose
 chopstick
 chorus
 chorus contest
+christmas
+christmas card
 church
 circle
+circuit
 circumstance
+circumstantial
 citizen
 city
 city hall
@@ -434,15 +658,23 @@ classical
 classmate
 classroom
 clean
+cleanse
 clear
+clear-cut
 clearly
+clemency
 clerk
 clever
+cliche
+client
 climate
 climb
+clinch
 cling
 clinic
 clock
+clog
+clone
 close
 closely
 clothes
@@ -453,10 +685,18 @@ club activity
 coach
 coast
 coat
+code
+coerce
+coercion
 coffee
 coin
+coincide
+coincidence
+coincidentally
+coined word
 cola
 cold
+collapse
 colleague
 collect
 collection
@@ -464,28 +704,45 @@ college
 colony
 color
 colorful
+colossal
+coma
 combine
 come
 comedian
 comedy
+comfort
 comfortable
+comforter
 comic
 comic book
 command
 comment
+commerce
+commercial
+commercialize
 commit
 committee
+commment
+commodity
 common
+common sense
 commonly
 communicate
 communication
 community
+commute
+commuter
 companion
 company
 compare
+compared
 comparison
+compensation
 compete
+competence
+competent
 competition
+competitor
 complain
 complaint
 complete
@@ -494,13 +751,23 @@ complexity
 complicated
 compose
 composition
+comprehension
+comprehensive
 computer
+computerization
+computerize
 concentrate
+concept
+conception
+conceptual
+concern
 concerned
 concert
 conclude
 conclusion
+concrete
 condition
+condo
 conduct
 conference
 confidence
@@ -512,71 +779,130 @@ confront
 confuse
 confused
 confusion
+congest
+congestion
 congratulation
+congress
 connect
+connected
 connection
 conscious
+consciously
+consciousness
+consensus
 consequence
 consequently
 consider
 considerable
+considerate
+consideration
 consist
+consistent
+consistently
 constant
 constantly
+constipate
 constitute
+constitution
 construct
 construction
+consult
+consultant
+consultation
 consume
+consumer
 consumption
 contact
+contagion
 contain
+container
 contemporary
 content
 contest
+context
+contextual
 continent
+continual
 continue
+continuity
+continuous
+continuously
 contract
+contractor
 contrary
 contrast
 contribute
 contribution
 control
+controversial
+controversy
 convenience
 convenience store
 convenient
 convention
+conventional
 conversation
 convert
 convey
 convince
+convinced
+convincing
 cook
+cookie-cutter
 cooking
 cool
 cooperation
+cop
 cope
 copy
 corner
+corporation
 correct
+correction
+correspond
+corresponding
+corrupt
+cosmetic surgery
+cosplay
+cosplayer
 cost
 costume
 cotton
 cough
 could
+counsel
+counseling
+counselor
 count
+counteract
+counterespionage
+counterfeit
 country
 courage
 course
 court
 cousin
 cover
+coverage
 cow
+cowl
+coworker
 crane
 crash
+craving
 create
 creation
 creative
+creativity
+credible
+credit card
+cremate
+crematory
 crew
 crime
+criminal
+criminology
+crippling
 crisis
 critic
 critical
@@ -586,6 +912,8 @@ crop
 cross
 crowd
 crowded
+crunch
+crush
 cry
 cucumber
 cultivate
@@ -594,12 +922,17 @@ cup
 cure
 curiosity
 curious
+currency
 current
 curry
 custom
 customer
 cut
+cut corners
+cut down on
 cute
+cutlery
+cyber
 cycling
 dad
 daily
@@ -611,60 +944,103 @@ danger
 dangerous
 dark
 date
+datebase
 daughter
 day
 dead
 dear
 death
+death penalty
+death row inmate
 debate
+debilitating
 debt
+debtor
 decade
+decal
+decay
+deceased
+deceit
+deceive
+december
+decent
 decide
+decipher
 decision
+decisive
 declare
 decline
+decoy
+decoy router
 decrease
+deem
 deep
 deeply
 defeat
 defend
+defiance
+defiant
 define
 definite
+definitely
 definition
+deformed
+defy
 degree
 degree celsius
 delay
+delegate
 deliberately
 delicate
 delicious
 delight
 deliver
+delivery
 demand
+dementia
 democracy
 democratic
+demolish
+demolition
 demonstration
 dentist
 deny
 department store
 departure
 depend
+depend on
 dependent
+deploy
+deployment
 depress
 depressed
 derive
+descend on
 describe
 description
 desert
+deserve
+deservedly
+deserving
 design
+designate
 designer
 desirable
 desire
 desk
 despite
+destination
 destroy
 destruction
+detachable
+detached
+detached house
 detail
+determination
 determine
+deterrent effect
+detonate
+detonation
 develop
 developed
 developing
@@ -672,21 +1048,33 @@ development
 device
 devise
 devote
+devoted
+devotion
+diabetes
+diabetic
+diagram
 dialect
+diaper
+diarrhea
 diary
+dibs
 dictionary
 did
 die
 diet
+differ
 difference
 different
+differentiate
 differently
 difficult
 difficulty
 dignity
 diminish
+dine
 dining room
 dinner
+diplomatic
 direct
 direction
 directly
@@ -694,20 +1082,34 @@ dirty
 disadvantage
 disagree
 disappear
+disappearance
 disappoint
 disappointed
 disaster
+disastrous
+discarded needle
 discipline
+disclose
 discount
 discourage
 discover
+discriminate
+discrimination
 discuss
 discussion
 disease
+diseased
+disgruntled
 dish
 dislike
+dispatch
 display
+disposal
+dispose
 dispute
+disruption
+dissuade
+dissuasion
 distance
 distant
 distinct
@@ -715,6 +1117,7 @@ distinction
 distinguish
 district
 disturb
+diverse
 divide
 division
 divorce
@@ -727,16 +1130,31 @@ doll
 dollar
 dolphin
 domestic
+domestic airport
 dominate
+domination
+donate
+donation
+donor
 door
 dot
+double
+doubly
 doubt
 down
+downturn
+dozen
+draft
 drama
 dramatic
+dramatize
+drastic
 draw
+draw up
+drawer
 dream
 dress
+dress the part for
 dressed
 dried
 drill
@@ -744,16 +1162,27 @@ drink
 drive
 driver
 drop
+drop everything
+drought
+drown
 drug
+drug-free
 drugstore
 drum
 dry
 duck
 due
+due to
 dull
+dummy
+dump truck
 during
+dutiful
+duty
 dwell
 dying
+dynamic
+dynamic plan
 each
 eager
 ear
@@ -787,6 +1216,12 @@ eighty
 either
 elaborate
 elderly
+elderly people
+elect
+election
+electoral system
+electric
+electric chair
 electrical
 electricity
 element
@@ -796,31 +1231,57 @@ elephant
 elevator
 eleven
 eleventh
+eligibility
 eliminate
+elimination
 else
 embarrass
 embarrassed
 emerge
 emergency
+emoticon
 emotion
 emotional
 emperor
+emphasis
 emphasize
 employ
 employee
+employer
+employment
+empress
 empty
+emulate
+emulation
 enable
+enact
 encounter
 encourage
+encouragement
 end
+endanger
+endless
 endure
 enemy
+energetic
 energy
 engaged
+engaging
+engagingly
 engineer
+england
+english
+engulf
+engulfment
 enjoy
+enlarge
+enlargement
+enlarger
 enormous
 enough
+enroll
+enrollment
+enslave
 ensure
 enter
 enterprise
@@ -832,21 +1293,43 @@ entirely
 entrance
 environment
 environmental
+environmental benefit
+envy
+epidemic
 equal
 equality
 equip
+equipment
+equivalence
 equivalent
 era
 erase 
 eraser
+erosion of confidence
 error
+erupt
+eruption
+eruptive
 escape
 especially
 essential
 essentially
 establish
+establishment
 estimate
+estimated
+eternal
+ethically
+ethnic
+ethnicity
+europe
+euthanasia
+evacuate
+evacuation
+evaluate
+evaluation
 even
+even though
 evening
 event
 eventually
@@ -864,53 +1347,88 @@ evolve
 exact
 exactly
 exam
+examination
 examine
 example
+exasperate
+exceed
+excel
+excellence
 excellent
 except
 exception
+excess
 excessive
 exchange
+exchangeable
 excite
 excited
 exciting
+exclusive
+exclusive coupon
 excuse
 executive
 exercise
 exhaust
 exhibit
+exhibition
 exist
+existence
+exonerate
 expand
+expansion
 expect
+expectation
+expend
+expendable
 expense
 expensive
 experience
 experiment
+experimental
 expert
+expired drug
 explain
 explanation
+explode
+exploit
+exploitation
+exploration
 explore
 explosion
+explosive
 export
 expose
+exposure
 express
 expression
 extend
+extensive
 extent
 external
+extinct
 extinction
+extort
+extortion
+extortionist
 extra
 extraordinary
+extravagance
+extravagant
 extreme
+extreme case
 extremely
 eye
 face
+facelift
 facility
 fact
 factor
 factory
+fade
 fail
 failure
+faint
 fair
 fairly
 fairy
@@ -921,24 +1439,42 @@ familiar
 family
 famous
 fan
+fancy
+fantasy
+fantasy world
 far
+faraway
 farewell
+farfetched
 farm
 farmer
 fascinate
 fashion
 fast
+fasten
 fat
+fatal
+fatal flaw
+fatality rate
 fate
 father
 fault
 favor
+favorit
 favorite
 fear
+feasibility
+feasible
 feature
+february
+federal
+federal agent
+federal law
+federally
 fee
 feed
 feel
+feel at home
 feeling
 female
 festival
@@ -951,16 +1487,28 @@ fifteenth
 fifth
 fifty
 fight
+fight attendant
 figure
+figure out
+figurehead
+file
+file a claim
 fill
 final
 finally
+finance
 financial
+financial benefit
+financial incentive
+financial system
 find
+finding
 fine
 finger
+fingerprint
 finish
 fire
+firearm
 firework
 firm
 firmly
@@ -968,13 +1516,20 @@ first
 fish
 fishing
 fit
+fitness
 fitting room
 five
 fix
 flag
 flame
+flatter
+flattery
+flaw
+fleet
+flesh
 flight
 float
+flood
 floor
 florist
 flour
@@ -983,23 +1538,32 @@ flower
 fluently
 fly
 focus
+focus on
+foil
 fold
 follow
 food
+food court
+foolish
 foot
 football
 for
 force
+forecast
+forehead
 foreign
+foreign aid
 foreigner
 forest
 forever
+forfeit
 forget
 form
 former
 fortune
 forty
 forward
+forward-looking
 found
 foundation
 four
@@ -1007,12 +1571,22 @@ fourteen
 fourteenth
 fourth
 fox
+fragrance
+framework
+france
 free
+free throw
 freedom
 freely
+freeze
+french
+french fries
+frequency
 frequent
 frequently
 fresh
+freshness
+friday
 fridge
 friend
 friendly
@@ -1023,43 +1597,71 @@ from
 front
 frontier
 fruit
+frustrate
 frustrated
 fuel
+fuel-efficient
 fulfill
+fulfilled
+fulfilling
+fulfillment
 full
+full insurance coverage
+full-time
 fully
+fully automated factory
 fun
 function
 fund
 fundamental
+fundraising
 funeral
 funny
 fur
+furious
+furnishing
 furniture
+further
 future
+gadget
 gain
+gallery
+gambling
 game
+gap
 garbage
 garden
 gas
 gate
 gather
 gaze
+gender
 gene
 general
 generally
 generate
 generation
 generous
+genetic
+genetically
+genetically modified food
 genius
 gentle
 gentleman
 genuine
+germ
+german
+germany
 gesture
 get
+get away
+get rid of
+get the point
 gift
 girl
 give
+give it a shot
+give up
 glad
 glass
 glasses
@@ -1068,18 +1670,28 @@ global warming
 globe
 glove
 go
+go on a rampage
+go out
+go through
 goal
 god
+godfather
 gold
 golf
 good
 goodbye
 goods
+goof off
+gorgeous
 govern
 government
+governmental
+governor
 grade
+gradual
 gradually
 graduate
+graffiti
 gram
 grammar
 grand
@@ -1091,16 +1703,29 @@ grant
 grape
 graph
 grasp
+grass roots
+grateful
+gratitude
 grave
+gravity
+gravity of the situation
 gray
 great
 greatly
 green
+greenhouse
+greenhouse effect
 greet
 greeting
+grizzly bear
+grocery
+gross
 ground
+ground rule
+groundbreaking
 group
 grow
+grow tremendously in popularity
 growth
 guarantee
 guard
@@ -1111,13 +1736,20 @@ guidebook
 guilty
 guitar
 gym
+gym membership
 habit
+hacker
+hacking
 hair
 half
 hall
+halloween
+halt
 ham
 hamburger
+hammer
 hand
+hand earned
 handle
 handmade
 handout
@@ -1125,54 +1757,81 @@ hang
 happen
 happiness
 happy
+harass
+harasser
 hard
+hard power
+hardware
 harm
 harmful
+harmless
 harmony
+harsh
 harvest
 has 
+haste
+hasten
+hastily
+hasty
 hat
 hate
 have
+hawaii
 he
 head
 headache
 health
+health care cost
 healthy
 hear
+hearse
 heart
 heat
 heater
 heaven
 heavy
 height
+heinous
+helicopter
 hello
 help
 helpful
+hepatitis
 her
 here
 hero
+heroine
 hers
 herself
 hesitate
 hey
 hi
+hide
 high
 high school
+highlight
 highly
 hiking
 hill
 him
 himself
+hinder
+hindrance
 hire
 his
+hispanic
+historian
 historical
 history
 hit
+hit the jackpot
+hitchhike
 hobby
 hold
+hold on
 hole
 holiday
+holy
 home
 home economics
 homesick
@@ -1183,11 +1842,15 @@ honest
 honey
 honor
 hope
+hopeful
 hopeless
 horse
+hospice
 hospital
 host
 host family
+hostile
+hostility
 hot
 hot spring
 hotel
@@ -1199,6 +1862,7 @@ how
 however
 huge
 human
+humanitarian
 humanity
 humor
 hundred
@@ -1209,25 +1873,44 @@ hunting
 hurry
 hurt
 husband
+hydraulic
+hydraulically
 ice
 ice cream
 idea
 ideal
 identical
+identification
 identify
+identity
 if
+ignorance
+ignorant
 ignore
 ill 
+illegal
+illegal dummping
 illustrate
 image
 imagination
 imagine
 imitate
+immediacy
 immediate
 immediately
 immigrant
 immigration
+immortality
+immune
+immune system
+immunity
+immunization
 impact
+impair
+impairment
+impartial
+impartiality
+impartially
 imply
 import
 importance
@@ -1236,80 +1919,188 @@ impose
 impossible
 impress
 impression
+impressionist
+impressive
+imprison
+imprisonment
 improve
+improvement
 impulse
 in
+inattentive
 incident
+incinerate
+incineration
 inclined
 include
 including
+inclusion
 income
+inconvenient
+incorporate
 increase
 increasingly
+incredible
+incumbent
+indecent
 indeed
 independence
 independent
+india
+indian
 indicate
+indication
+indicative
+indispensable
 individual
 industrial
+industrial park
 industrialize
+industrious
 industry
 inevitable
+inevitably
+inexpensive
+infancy
 infant
+infect
+infection
+infectious
 inferior
+inflatable
+inflate
 influence
+influential
 inform
 information
+information center
+information kiosk
+infrastructure
+infringement of privacy
+infuse
+infusion
+inhabitable planet
 inhabitant
+inhibition
 initial
+initiative
+inject
+injection
 injure
 injury
 ink
+inmate
 inner
+ins and outs
 insect
 inside
+insider
+insider stock tips
 insight
 insist
+insistence
+insomnia
+insomniac
 inspire
+install
+instant
 instead
+instead of
 instinct
 institution
+instruct
+instructie
 instruction
+instructional
+instructor
 instrument
 insurance
+insure
 intellectual
 intelligence
 intelligent
 intend
+intention
+intentional
+intentionally
+inter
+interdependence
+interdependent
 interested
 interesting
 interfere
+interment
+intern
 internal
 international
+international student market
+internet
+internship
+internship program
 interpret
 interrupt
+interstate
 interview
 intimate
 into
 introduce
 introduction
+intrude
+intrusion
+intuition
+invade
+invader
+invalid
+invaluable
+invasion
 invent
+invention
+invert
+invest
 investigate
 investment
+investor
 invisible
 invite
 involve
+involved
+involvement
+irk
+irksome
+iron
+iron out bugs
+iron sharpens iron
+ironic
+irony
+irregular
+irresponsible
+irritate
 is
 island
 isolate
 issue
 it
+italian
+italy
 item
+itemize
 its
 jacket
+jackpot
 jam
+january
+japan
+japanese
+jaw
+jeopardize
+jet lang
+jewelry
+jinx
 job
+jockey
+jogging
 join
+joint
 joke
 journalist
 journey
@@ -1317,17 +2108,30 @@ joy
 judge
 judgement
 juice
+juicy
+july
 jump
+june
 jungle
 junior
 junior high school
+junk
+junk food
+juror
+jury
 just
+justice
+justification
 justify
+juvenile reformatory institution
 keen
 keep
 key
 kick
+kick in
 kid
+kidnap
+kidney
 kill
 kilogram
 kilometer
@@ -1337,33 +2141,53 @@ king
 kitchen
 kite
 knee
+kneel
 knife
 knock
+knock on wood
 know
 knowledge
+knowledgeable
+korea
+korean
+label
 labor
 laboratory
 lack
 lady
 lake
 land
+landmark
 landscape
 language
 large
 largely
 last
+lasting
 late
 later
+lateral
+lateral transfer
 latest
 latter
 laugh
 laughter
+launch
 law
+lawmaker
+lawsuit
 lawyer
 lay
+lay down
+lay off
+lazy susan
 lead
 lead 
+lead to
 leader
+leading
+league
+lean
 leap
 learn
 least
@@ -1371,7 +2195,12 @@ leave
 left
 leg
 legal
+legal action
+legalize
+legislation
+legislator
 leisure
+leisurely
 lemon
 lend
 lesson
@@ -1379,75 +2208,127 @@ let
 let's
 letter
 level
+leverage
 liberal
 liberty
 library
+license
+licensee
 lie
+lie down
 life
+lifespan
 lifestyle
 lift
 light
 like
+like lightning
 likely
+likewise
+limb
 limit
 limitation
 line
+line up
 lion
 list 
 listen
 literally
 literary
 literature
+litigate
+litigation
 little
 live
+livestock
+living expenses
+living pattern
+living proof
 living room
 load
 local
+locate
 located
 location
 lock 
 logic
 logical
+london
 lonely
 long
 long-term
 look
+look after
+look forward to
+loosen
 lord
 lose
+lose track of
 loss
 lot
+lottery
 loud
 loudly
 love
+love affair
 low
+low emission
 luck
 lucky
+lucrative
+lull
 lunch
 lunch break
 lung
+lung cancer
+lure
+lust
+luxurious
 luxury
 machine
 magazine
 magic
+mahogany
 mail
 mailbox
 main
 maintain
+maintenance
+majestic
+majestically
 major
+major criminal
 majority
 make
+makeover
 maker
+malaysia
+malignant
+malignity
+mall
+malnutrition
+malpractice
 mammal
 man
 manage
+management
 manager
+mandate
+mandatory
+maneuver
+manifest
+mannequin
 manner
 manufacture
+manufacturing flaw
 many
 map
+maple
+march
 mark
 market
 married
+marrow
 marry
 mask
 mass
@@ -1455,11 +2336,16 @@ massive
 master
 match
 material
+materialism
+materialize
 math
 matter
 mature
+maximize
+maximum
 may
 maybe
+maze
 me
 meal
 mean
@@ -1469,53 +2355,94 @@ meat
 mechanical
 medal
 media
+medic
 medical
 medicine
 medium
 meet
+meet a demand
 meeting
+melanoma
 melt
 member
+membership
 memory
 mental
+mentality
 mention
 menu
 merchant
 merely
 merit
+mesmerize
 message
+meteorologist
+meteorology
 meter
 method
+meticulous
+microvascular
+microwave
 middle
 midnight
+migraine
+migrate
+migration
 military
 milk
 million
 mind
 mine
 mineral
+minimize
+minimum
 minor
 minority
 minute
 mirror
 miss
+mission
 mistake
 misunderstand
 mix
 model
 modern
+modify
+mole
+molester
 mom
 moment
+momentary
+momentous
+monarch
+monarchal
+monarchy
+monday
 money
+monitor
 monkey
+monopolization
+monopolize
 month
 mood
 moon
+moral
+moratorium
 more
 morning
+mortal
+mortality
+mortgage
+mortician
+mortify
+mortuary
 most
+mostly
 mother
+motivate
+motivation
 motive
+motor skill
 mountain
 mouse
 mouth
@@ -1524,7 +2451,10 @@ movement
 movie
 movie theater
 much
+mundane
+mundane daily necessities
 murder
+murderer
 museum
 music
 musician
@@ -1537,17 +2467,24 @@ mystery
 myth
 nail
 name
+name frame
+nap
 narrow
+nasty
 nation
 nation 
 national
 national holiday
+national security
 native
 natural
+natural therapy
 naturally
 nature
+navigation system
 near
 nearby
+nearly
 necessarily
 necessary
 necessity
@@ -1557,12 +2494,17 @@ negative
 neglect
 neighbor
 neighborhood
+nephew
 nerve
+nerve cell
 nervous
 net
 never
 nevertheless
 new
+new year
+new york
+new zealand
 news
 newspaper
 next
@@ -1574,9 +2516,13 @@ nineteenth
 ninety
 ninth
 no
+no problem
 nobody
 nod
 noisy
+nominate
+nomination
+nominee
 noodle
 noon
 normal
@@ -1589,79 +2535,129 @@ note
 notebook
 nothing
 notice
+notification
+notify
 notion
 novel
+november
 now
 nuclear
+nuclear reactor
 number
 numerous
 nurse
 nursery
+nursing
 o'clock
+obese
+obesity
 object
+obligate
 obligation
+oblige
+obscure
 observation
 observe
+obstacle
 obtain
 obvious
 obviously
 occasion
+occasional
 occasionally
+occupant
 occupation
 occupy
+occur
+occurrence
 ocean
+october
 octopus
 odd
+odds
+odious
 of
 off
 offend
+offender
+offense
 offer
+offering
 office
 officer
 official
+official head
 often
 oh
 oil
+ok
 old
+olympics
 on
 once
 one
 onion
 only
 open
+open up
+opening bell
+operate
 operation
+operator
 opinion
 opportunity
 oppose
 opposite
+opposition
+optimist
+optimistic
 or
 orange
 orbit
 orchestra
+ordeal
 order
 ordinary
+organ
 organization
 organize
 origin
 original
 originally
 originate
+orthopedic
+orthopedist
 other
 otherwise
 our
 ours
 ourselves
 out
+out of this world
+outfit
+outlet mall
+outline
 output
 outside
+outskirts
+outstanding
+oven
+ovenn mitten
 over
 overcome
 overlook
 overseas
+oversee
+overturn
+overweight
+overwhelm
 overwhelming
 owe
+owing to
 own
 owner
+ozone
+ozone layer
 pack
 page
 pain
@@ -1671,35 +2667,61 @@ painter
 painting
 pair
 pale
+palm print
 panda
 paper
+parallel
+parallel park
+paralympics
 pardon
 parent
+paris
 park
 part
+part time
+partial
+partially
 participant
 participate
 particular
 particularly
 partner
+parts supplier
 party
 pass
+pass a sentence
 passage
 passenger
 passion
 passive
 passport
 past
+patch
+paternity
+paternity leave
+path
 patience
 patient
 pause
 pay
+pay attention to
+payback
 peace
+peacekeeping
 peach
+peak
 peculiar
+pedophile
+pee
 pen
+penalize
+penalty
 pencil
+penetrate
+penetrating
+penetration testing
 people
+per
 perceive
 percent
 perception
@@ -1707,16 +2729,33 @@ perfect
 perform
 performance
 period
+perish
+perk
 permanent
+permission
 permit
+persist
+persistence
+persistent
 person
 personal
 personal computer
 personality
+personnel
 perspective
+perspiration
 persuade
+persuasion
+persuasive
+pessimist
+pessimistic
 pet
+petition
+petition drive
+pharmaceutical
+pharmaceutical company
 phenomenon
+philanthropic
 philosopher
 philosophy
 phone
@@ -1727,6 +2766,7 @@ photograph
 photographer
 phrase
 physical
+physically
 physics
 pianist
 piano
@@ -1737,9 +2777,14 @@ piece
 pile
 pilot
 pink
+pinpoint
 pioneer
+pipeline
 pizza
 place
+place mat
+place trust in
+placid
 plain
 plan
 plane
@@ -1752,25 +2797,42 @@ player
 pleasant
 please
 pleasure
+pledge
+plentiful
 plenty
+plenty of
+plot out
+plunge
 pocket
 poem
 point
 poison
 police
+police force
+police officer
 police station
 policy
 polite
 political
+politically
 politician
+politicize
 politics
+polka dot
+poll
 pollution
+polyp
 pool
 poor
+pop culture
 popular
 popularity
 population
+portability
+portable
 portion
+portray
+pose
 position
 positive
 possess
@@ -1779,38 +2841,68 @@ possible
 possibly
 post
 post office
+postal service
 postcard
 poster
+postpone
 pot
+pot holder
 potato
 potential
+potentiality
+potluck
+poultry
 pour
 power
 powerful
 practical
+practical measure
 practically
 practice
 praise
+prank
+prank call
 pray
 precious
 precise
 precisely
+precision
 predict
+prediction
 prefecture
 prefer
 preference
 prejudice
+premier
+premium
 prepare
+preregister
+preschooler
+prescribe
+prescription
+prescription drug
 presence
 present
+presentation
 preserve
+presidency
 president
+presidential
 press
+pressing problem
 pretend
 pretty
+prevail
+prevalence
+prevalence rate
+prevalent
 prevent
+prevention
 previous
+prey on
 price
+pride
+priest
 primarily
 primary
 prime
@@ -1818,25 +2910,43 @@ primitive
 principal
 principle
 print
+priority
+prison
+prisoner
+privacy advocate
 private
+privatize prisons
 privilege
+privileged
 prize
+proactive
 probably
 problem
+procedure
 proceed
 process
 produce
 product
 production
+productivity
 profession
 professional
+professionally
 profit
+profitable
+profligacy
+profligate
 profound
 program
 programmer
 progress
+prohibit
 project
+prolong
+prolonged
+prom
 promise
+promising
 promote
 pronunciation
 proof
@@ -1844,27 +2954,44 @@ proper
 properly
 property
 proportion
+proposal
 propose
 prospect
+prospective
+prosper
+prosperity
+prosperous
 protect
+protection
+protective
 protest
 proud
+proudly
 prove
 proverb
 provide
+provision
 psychologist
 public
 publish
 pull
+pull down
+pulse
 punish
 punishment
 purchase
 purple
 purpose
+purse strings
+purser
 pursue
 pursuit
 push
 put
+put off
+put trust in
+qualification
+qualify
 quality
 quantity
 question
@@ -1878,7 +3005,10 @@ quiz
 rabbit
 racial
 racket
+radiation
 radio
+raft
+railroad service
 rain
 rain forest
 rainbow
@@ -1886,99 +3016,178 @@ rainy
 raise
 range
 rank
+rapid
 rapidly
+rapids
 rare
+rarely
 rate
+ratification
+ratify
+ratio
 rational
+rattle
 raw
 ray
 reach
 react
 reaction
+reactive ability
 read
 readily
 reading
 ready
 real
+real estate agency
+realism
+realistic
 reality
+realization
 realize
 really
+rear end
 reason
 reasonable
+reborn
 receive
 recent
 recently
+recession
+recidivism
 recipe
+recline
+recliner
 recognition
 recognize
 recommend
+recommendation
 recover
+recovery
+recreation
+recruit
 recycle
 recycling
 red
 reduce
+reduced item
+reduction
 refer
+refer to
 reference
+referendum
 reflect
+reflect on
 reflection
+reform
+reformatory program
+refresh
+refrigerate
+refrigerated section
 refuse
 regard
 regardless
 region
 regular
 regularly
+regulate
+regulation
+regulatory
+rein in
 reject
+rejection
 related
 relation
 relationship
 relative
+relax
+relaxation
 relaxed
 release
+relevance
+relevant
 reliable
 relief
 relieve
 religion
 rely
+rely on
 remain
+remain silent
 remark
 remarkable
+remedy
 remember
 remind
+remodel
 remote
+removal
 remove
 rent
 rental
 repair
+repeal a law
 replace
 reply
 report
 represent
 reputation
+repute
 request
 require
 requirement
 rescue
 research
+resemblance
+resemble
 reserve
+reside
+residence
 resident
 resist
+resistance
+resistant
 resolve
 respect
+respectable
+respectful
+respective
 respond
 response
+responsibility
 responsible
+responsibly
 rest
 restaurant
 restrict
+restriction
+restrictive
 restroom
 result
+result from
+resurrection
+resuscitation
+retail
+retailer
 retain
+retaliate
+retaliation
+retention
+retina
 retire
+retrieve
 return
 reuse
 reveal
+revealing
+revenge
 review
+revival
+revival plan
+revive
+revolt
 revolution
+revolutionary
+revolve
 reward
 rice
 rice ball
@@ -1986,16 +3195,25 @@ rice cake
 rich
 ride
 right
+right to life
 ring
 rise
 risk
+rite
 riten
 ritual
 river
 road
+road range
+roast
+rob
+robber
+robbery
 robot
 rock
+rock climbing
 roll
+roll around
 roof
 room
 root
@@ -2003,16 +3221,21 @@ rope
 rough
 roughly
 round
+route
 routine
 row
+royal family
 rude
 rugby
 ruin
 rule
 ruler
 run
+runoff
 rural
 rush
+russia
+sabotage
 sacrifice
 sad
 safe
@@ -2020,19 +3243,34 @@ safely
 safety
 salad
 sale
+sales conference
 salt
 salty
 same
 sandwich
 satisfactory
 satisfy
+saturday
 save
+saving
 say
+scalpel
+scan
+scanner
+scarce
+scarcely
+scarcity
 scare
+scared
+scary
 scatter
 scene
+scent
 schedule
+schema
+schematic
 scholar
+scholarship
 school
 school festival
 school lunch
@@ -2046,40 +3284,71 @@ scream
 screen
 sea
 seafood
+seal
 search
+search for
 season
 seat
 second
 secret
+secret service
 section
 secure
+securely
 security
+seduce
+seduction
+seductive
 see
+see red
 seed
 seek
+seek to
 seem
 seldom
 select
 self
+self destruct
+self supporting
 sell
+semester
 send
+senile
+senility
 senior
+senior friendly
 sense
+sense of value
 sensible
 sensitive
+sensitive information
+sensor
+sentence
 separate
+september
 serious
 servant
 serve
+service
+serving utensil
 set
+set up
 settle
+settlement
 seven
 seventeen
 seventeenth
 seventh
 seventy
+sever
 several
 severe
+sex
+sex offender
+sexual
+sexual advance
+sexual harassment
+sexually
 shade
 shake
 shall
@@ -2091,6 +3360,7 @@ shelter
 shift
 shine
 ship
+shirk
 shirt
 shock
 shoe
@@ -2103,12 +3373,21 @@ should
 shoulder
 shout
 show
+show up
+showdown
 shower
+showroom
 shrine
+shrink
+shrinkage
 shut
+shut off
 shy
 sick
+sick leave
 side
+side effect
+siesta
 sight
 sightseeing
 sign
@@ -2116,12 +3395,15 @@ significance
 significant
 silent
 silly
+silverware
 similar
 similarity
+similarly
 simple
 simply
 since
 sing
+singapore
 singer
 single
 sink
@@ -2135,41 +3417,69 @@ sixteen
 sixteenth
 sixth
 sixty
+sizable
 size
 skate
+skeptic
+skeptical
+sketch out
 ski
 skiing
 skill
 skin
+skin cancer
 sky
+slander
+slash
+slave
 sleep
 sleepy
 slight
 slightly
+slim
 slow
+slow down
 slowly
+slump
 small
 smart
+smartphone
 smell
 smile
+smiley
 smoke
+smooth
+smoothly
+smoothness
+smorgasbord
 snack
 snake
+snap
 sneaker
+sniff
 snow
 snowy
 so
+so far
+soar
 soccer
 social
+social etiquette
+social status
 social studies
 socially
+socially active
 society
 sofa
 soft
+soft power
 softball
+software
 soil
 solar
 soldier
+solely
+solicit
 solid
 solution
 solve
@@ -2191,11 +3501,16 @@ sound
 soup
 south
 souvenir
+sovereign
 soybean
 space
+spain
+spanish
 spare
+spark a controversy
 speak
 speaker
+speaking of
 special
 specialist
 specialize
@@ -2205,52 +3520,83 @@ speech
 speed
 spell
 spend
+spin
 spirit
 spiritual
+splendid
 spoil
+sponsor
+spontaneous
 spoon
 sport
 sports day
+sports outfitter
+sportsperson
 spot
 spread
 spring
+sprinkle
+stabilize
+stable
+stabler
 stadium
 stage
 stairs
+stalker
 stamp
 stand
+stand out
 standard
 star
 stare
 start
+starve to death
 state
+state law
+state legislature
 statement
 station
+statistical
+statistically
 statistics
 status
+status symbol
 stay
+staycation
 steadily
 steady
 steak
 steal
 steam
 step
+stereotype
 stick
+stick to
 still
 stimulate
+stimulating
+stimuli
+stimulus
+stipulate
+stipulation
 stock
 stomach
 stomachache
 stone
+stool
 stop
 store
 story
 straight
+strain
+strained
 strange
 stranger
+strategy
 street
 strength
 strengthen
+strenuous
 stress
 stretch
 strict
@@ -2260,13 +3606,23 @@ strong
 strongly
 structure
 struggle
+struggling company
 student
 study
 stuff
+stuffed toy
 stupid
 style
+subcontract
+subculture
+subdue
 subject
+sublime
+subsequent
+subsequently
 substance
+substantial
+substantially
 substitute
 subtle
 suburb
@@ -2277,50 +3633,88 @@ such
 sudden
 suddenly
 suffer
+suffer from
 sufficient
 sugar
 suggest
+suggestion
+suggestive
 suit
 suitable
 sum
+summarize
 summer
 sumo wrestler
 sun
+sunday
 sunflower
 sunny
 sunset
 superior
 supermarket
+supervisor
+supplier
 supply
 support
 suppose
+supposedly
 suppress
 sure
+sure thing
 surely
+surf
 surface
+surgeon
+surgery
 surprise
 surprised
 surprising
 surround
+surveillance
 survey
 survival
 survive
 suspect
+suspected
+suspicious
+sustain
+sustainable
 swallow
+swear
+sweat
 sweater
 sweep
+sweep across
 sweet
+sweetheart
 swim
 swimming
+sword
+sydney
 symbol
+sympathy
+symptom
+syringe
 system
 table
 table tennis
+tailgate
+taiwan
 take
+take away
+take over
+take part in
+takeoff
 tale
 talent
+talented
 talk
 tall
+tamper with
+tap
+tap into
+tap water
+target
 task
 taste
 taxi
@@ -2335,21 +3729,42 @@ technical
 technology
 telescope
 tell
+temper
 temperature
 temple
+temporary
 ten
 tend
+tend to
+tendency
+tendentious
+tender
 tennis
 tension
 tenth
+tenure
 term
+terminal
+terminally
+terminate
 terrible
+terrific
+terrify
+terrifying
 territory
+terror
+terrorism
+terrorist
+terrorize
 test
+testify
 text
 textbook
+thailand
 than
 thank
+thanks a lot
+thanks to
 that
 the
 theater
@@ -2360,8 +3775,11 @@ theme
 themselves
 then
 theory
+therapy
 there
 therefore
+thermal
+thermal geyser
 these
 they
 thick
@@ -2385,19 +3803,33 @@ threaten
 three
 through
 throw
+throw a party
+thrower
+thursday
+thus far
 ticket
 tide
 tie
+tie up
 tiger
+tight
+tighten
 time
+time consuming
+time difference
+time zone syndrome
+timesaving
 tiny
 tip
+tipster
 tired
 to
+to be honest
 today
 together
 toilet
 tomato
+tomboy
 tomorrow
 tone
 tongue
@@ -2407,10 +3839,14 @@ tool
 tooth
 toothache
 top
+top heavy
+tornade
 total
 totally
 touch
+touch on
 tough
+tough guy
 tour
 tournament
 toward
@@ -2421,6 +3857,8 @@ toy
 trace
 track
 track and field
+track suit
+tracking application
 trade
 tradition
 traditional
@@ -2428,14 +3866,24 @@ traditionally
 traffic
 traffic jam
 traffic light
+trafic jam
 tragedy
 trail
 train
 training
 trait
+transact
+transaction
 transfer
 transform
+transformation
 translate
+transmit
+transmitter
+transparency
+transparent
+transplant
+transplantation
 transport
 transportation
 trap
@@ -2445,45 +3893,80 @@ treat
 treatment
 tree
 tremendous
+tremendously
+trend
+trendy
 trial
 tribe
 trick
+trigger
 trip
+troop
 tropical
+tropical rain forest
 trouble
 true
 trust
 truth
 try
+try to find
 tube
+tuesday
+tuition
+tummy tuck
+tumor
 tuna
+turbulence
+turbulent
 turn
+turn around
+turn into
 turtle
 twelfth
 twelve
 twentieth
 twenty
 twice
+twin
 two
 type
 typhoon
 typical
+uh
 ultimate
+ultraviolet rays
 umbrella
+unattended package
+unauthorized
+unavailable
+unbalance
+unbalanced
+unbelievable
 uncle
 uncomfortable
+uncommon
 under
+underfed
 undergo
+undergraduate
 underground
 understand
+undertaker
 underwear
+underweight
+undoubted
 undoubtedly
+uneasy
 unemployment
 unexpected
+unfasten
 unfortunately
 uniform
 union
 unique
+united kingdom
+united nations
+united states
 universal
 universe
 university
@@ -2492,56 +3975,106 @@ unless
 unlike
 unlikely
 unpleasant
+unsuccessful
+unsuitable
 unten
 until
 unusual
+unveil
 up
+up to
+update
+uproar
 upset
+upturn
 urban
 urge
+urine
+urn
 us
 use
 used
 useful
 useless
 usually
+utensil
+utility
+utility room
+utilization
+utilize
+utter
+utterance
 vacation
+vaccine
+valid
+validity
 valuable
 value
+vanish
+variable
+variant
+variation
 variety
 various
 vary
 vast
 vegetable
 vehicle
+veil
+vein
+velocity
 vending machine
 verbal
+versatile
+versatility
 version
 very
+vessel
+veture
+via
+vicious
+vicious circle
 victim
+victimization
+victimize
 victory
 video
 video game
+vietnam
 view
+viewer
 village
+violate
+violator
 violence
 violin
+viral
 virtually
 virtue
 virus
 visible
 vision
+vision problem
+visionary
 visit
 visitor
 visual
+visualize
 vital
 vocabulary
 voice
+volcanic
+volcano
 volleyball
 volunteer
+vomit
 vote
+voter
 voyage
+vulnerability
+vulnerable
 wage
+waist
 wait
 wake
 walk
@@ -2552,6 +4085,7 @@ want
 war
 warm
 warn
+warrior
 was
 wash
 waste
@@ -2561,26 +4095,37 @@ wave
 way
 we
 weak
+weaken
 wealth
 wealthy
 weapon
 wear
 weather
 website
+wednesday
 week
 weekend
 weigh
 weight
+weight loss
+weightlifter
+weightlifting
 welcome
 well
+well being
+well off
 well-known
 were
 west
 western
 westerner
 what
+what matter is
 when
+when it comes to
+whenever
 where
+whereabouts
 whereas
 wherever
 which
@@ -2589,12 +4134,15 @@ whisper
 white
 who
 whole
+wholesale
+wholly
 whose
 why
 wide
 widely
 widespread
 wife
+wiggle
 wild
 will
 willing
@@ -2605,11 +4153,14 @@ windy
 wing
 winner
 winter
+wipe out
 wisdom
 wish
 with
 within
+within reach
 without
+withstand
 witness
 woman
 wonder
@@ -2619,20 +4170,29 @@ word
 work
 worker
 world
+world heritage
 worried
 worry
 worse
+worship
 worst
 worth
 would
+would be
 wow
 wrap
+wreck
+wreckage
+wrestle
+wrinkle
 write
 writer
 writing
 wrong
 year
+yearning
 yell
+yell at
 yellow
 yen
 yes
