@@ -1,3 +1,4 @@
+a piece of cake
 abandon
 abandoned
 abase
@@ -28,6 +29,7 @@ abrupt
 abruptly
 absolution
 absolve
+absorb
 abstain
 abstemious
 abstemiously
@@ -51,6 +53,7 @@ accidentally
 acclaim
 accolade
 accommodate
+accompany
 accomplice
 accountability
 accountable
@@ -59,6 +62,8 @@ accrue
 accumulating
 accurate
 accusation
+accuse
+accustomed
 acerbic
 acknowledge
 acorn
@@ -110,7 +115,9 @@ adverse
 adversity
 advocate
 aesthetically
+affair
 affect
+affection
 affectionate
 affectionately
 affiliate
@@ -123,6 +130,7 @@ afflict
 afflicted
 affliction
 affluent
+afford
 affront
 aflame
 aftermath
@@ -240,6 +248,7 @@ antipathy
 antiquated
 antiseptic
 antler
+anxiety
 anxious
 apathetic
 apathetically
@@ -250,6 +259,7 @@ apocalyptic
 apology
 appalling
 apparatus
+apparent
 apparition
 appease
 appeasement
@@ -307,7 +317,9 @@ assertive
 assimilate
 assuage
 assuming
+assumption
 asthema
+astonish
 astonishing
 astound
 astute
@@ -572,6 +584,7 @@ burgeoning
 burial
 burliness
 burly
+bury
 bused
 bustle
 bustling
@@ -791,6 +804,7 @@ complacency
 complacent
 complacently
 complain
+complaint
 complement
 complex
 compliant
@@ -897,6 +911,7 @@ conservative
 considerably
 consign
 consignment
+consist
 consist of
 consistent
 consolation prize
@@ -922,6 +937,7 @@ consumption
 contagious
 contaminate
 contemplate
+contemporary
 contempt
 contemptuous
 contemptuously
@@ -941,6 +957,7 @@ contract
 contradict
 contradictory
 contraption
+contrary
 contravene
 contravention
 contrivance
@@ -949,6 +966,7 @@ contrived
 controversial
 conundrum
 convection
+convey
 conveyance
 convict
 conviction
@@ -961,6 +979,7 @@ convoy
 convulsion
 cooperative
 coordinated
+cope
 copious
 copiously
 cordial
@@ -1156,6 +1175,7 @@ defunct
 defuse
 defy
 degrade
+degree celsius
 dehydrated
 deity
 delayed
@@ -1239,6 +1259,7 @@ desecration
 desiccated
 desiccation
 designate
+desirable
 desist
 desolate
 despicable
@@ -1278,6 +1299,7 @@ devious
 devoid
 devolution
 devolve
+devote
 devour
 devout
 dexterity
@@ -1298,6 +1320,7 @@ diffuse
 digestion
 dignified
 dignify
+dignity
 digress
 dilapidated
 dilapidation
@@ -1425,6 +1448,7 @@ distressing
 distressingly
 district
 distrust
+disturb
 disturbance
 ditch
 diverge
@@ -1438,6 +1462,7 @@ dividend
 divine
 division
 divisive
+divorce
 divulge
 docile
 docilely
@@ -1483,6 +1508,7 @@ duly
 dump
 dupe
 dustpan
+dwell
 dwelling
 dwindle
 dwindling
@@ -1507,6 +1533,7 @@ edible
 eerie
 effectiveness
 efficacy
+efficient
 egg plant
 egotistical
 egregious
@@ -1545,6 +1572,7 @@ embankment
 embargo
 embark
 embarrass
+embarrassed
 embarrassing
 embellish
 embellishment
@@ -1745,6 +1773,7 @@ expeditious
 expeditiously
 expel
 expenditure
+expense
 expert
 expertise
 expire
@@ -1816,6 +1845,7 @@ fasting
 fatal
 fatality
 fatally
+fate
 fatuous
 fatuously
 fatuousness
@@ -2052,6 +2082,7 @@ gracefull
 gracious
 grade
 gradient
+gradually
 graft
 grainy
 grand
@@ -2210,6 +2241,7 @@ hostile
 hostility
 hottest
 hound
+household
 houseplants
 howl
 hubris
@@ -2361,6 +2393,7 @@ incite
 incitement
 inclement
 inclination
+inclined
 incoherent
 incompatible
 inconsequential
@@ -2380,6 +2413,7 @@ incur
 indebted
 indecency
 indecisive
+indeed
 indelible
 indelibly
 indemnify
@@ -2417,12 +2451,15 @@ ineptly
 inequitable
 inertia
 inevitability
+inevitable
 infallible
 infancy
+infant
 infantry
 infatuated
 infectious
 infer
+inferior
 infest
 infestation
 infested
@@ -2447,6 +2484,7 @@ ingenuous
 ingest
 ingrained
 ingrate
+inhabitant
 inhale
 inherent
 inhibit
@@ -2483,6 +2521,7 @@ insignificant
 insincere
 insinuation
 insipid
+insist
 insolvency
 insolvent
 insomnia
@@ -2993,6 +3032,7 @@ neutralize
 niche
 nimble
 nocturnal
+nod
 noisy
 nomadic
 nomenclature
@@ -3056,6 +3096,7 @@ obstreperously
 obstreperousness
 obvious
 occasion
+occasionally
 occupation
 occur
 odd
@@ -3165,6 +3206,7 @@ palatably
 palate
 palatial
 palatially
+pale
 palliate
 palliation
 palliative
@@ -3216,6 +3258,7 @@ pear
 peas
 pebble
 peccadillo
+peculiar
 peculiarity
 pedantic
 pedantically
@@ -3296,6 +3339,7 @@ pharmaceutical industry
 pharmacist
 pheasant
 phenomenal
+phenomenon
 philanthropic
 philanthropy
 philistine
@@ -3304,11 +3348,11 @@ photosynthesis
 phrase
 physical activity
 picky
-a piece of cake
 piecemeal
 pigeonhole
 pigment
 pike
+pile
 pilfer
 pillage
 pimple
@@ -3336,6 +3380,7 @@ plausible
 play down
 plea
 plead
+pleasant
 pleased
 pledge
 plentiful
@@ -3388,6 +3433,7 @@ posture
 postwar
 potent
 practical
+practically
 pragmatic
 praise
 prank
@@ -3399,10 +3445,13 @@ precariousness
 precede
 precept
 precinct
+precious
 precipitate
 precipitation
 precipitous
 precipitously
+precise
+precisely
 preclude
 preclusion
 precocious
@@ -3481,6 +3530,7 @@ proficiency
 proficient
 profitable
 profligate
+profound
 profusely
 profusion
 progeny
@@ -3577,6 +3627,8 @@ purity
 purport
 purported
 purportedly
+pursue
+pursuit
 put into
 put out
 put-up job
@@ -3613,6 +3665,7 @@ quotable
 quote
 rabies
 raccoon
+racial
 racist
 racket
 radiate
@@ -3645,6 +3698,7 @@ ravage
 ravine
 raze
 reactionary
+readily
 real
 reasonable
 rebel
@@ -3728,6 +3782,7 @@ relentless
 relevant
 reliable
 relic
+relief
 relieve
 relinquish
 relinquishment
@@ -3770,6 +3825,7 @@ replicate
 reprehend
 reprehensible
 reprehensibly
+represent
 representative
 repress
 repression
@@ -3794,6 +3850,7 @@ repulsion
 repulsive
 repulsively
 reputable
+reputation
 requisite
 rescind
 resemblance
@@ -3959,6 +4016,7 @@ scarcity
 scarecrow
 scathing
 scathingly
+scatter
 scavenge
 scheme
 schism
@@ -4056,6 +4114,7 @@ shocking
 shoddily
 shoddiness
 shoddy
+shore
 shore up
 shoreline
 shortage
@@ -4254,6 +4313,7 @@ staunchly
 staunchness
 stave
 steadfast
+steadily
 stealthy
 stem
 stemmed from
@@ -4344,6 +4404,7 @@ subsidize
 subsidy
 subsist
 subsistence
+substance
 substantial
 substantiate
 substantiation
@@ -4404,6 +4465,7 @@ surrogate
 surveil
 surveillance
 susceptible
+suspect
 suspicious
 sustainable
 swab
@@ -4516,6 +4578,7 @@ thuggish
 thwart
 tick
 tidal
+tide
 tidy
 tie
 tier
@@ -4584,6 +4647,7 @@ tremor
 trendy
 trepidation
 trespass
+tribe
 tribulation
 tribunal
 tribute
@@ -4708,6 +4772,7 @@ uprising
 uproar
 uproot
 upscale
+upset
 upsetting
 upshot
 upstart
@@ -4781,6 +4846,7 @@ violate
 violation
 viral
 virgo
+virtue
 virtuoso
 virtuous
 virulence
@@ -4851,6 +4917,7 @@ wind
 windfall
 window dressing
 windpipe
+wisdom
 wise
 wisteria
 withdrawn
