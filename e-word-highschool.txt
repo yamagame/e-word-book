@@ -109,6 +109,8 @@ akin
 alarm
 alarming
 album
+alcohol
+alcoholic beverages
 alien civilization
 alike
 alive
@@ -214,6 +216,7 @@ area
 argue
 arise
 arm
+armchair
 arms
 around
 around the clock
@@ -272,6 +275,7 @@ attempt
 attend
 attention
 attentive
+attic
 attitude
 attorney
 attract
@@ -312,6 +316,7 @@ bad luck
 badly
 badminton
 bag
+bake
 bakery
 balance
 ball
@@ -330,6 +335,7 @@ baptismal ceremony
 baptismal font
 bar
 bar exam
+barbecue
 barely
 barium
 baseball
@@ -340,7 +346,10 @@ basis
 basketball
 bastion
 bath
+bath mat
 bathroom
+bathtub
+batteries
 battle it out
 battlefield
 be
@@ -381,6 +390,7 @@ best
 better
 betting ticket
 between
+beverages
 beyond
 bias
 bicycle
@@ -470,6 +480,7 @@ broad
 broadcast
 broaden
 broadway
+broil
 broker
 brother
 brown
@@ -490,6 +501,7 @@ burden
 burial
 burn
 burn up
+burner
 burst
 bury
 bus
@@ -502,12 +514,14 @@ busy
 but
 butt
 butter
+butter dish
 button
 buy
 buy on impulse
 buzzword
 by
 cabin
+cabinet
 cafeteria
 cake
 calamity
@@ -525,6 +539,8 @@ candidacy
 candidate
 candle
 candy
+canister
+canned foods
 cap
 capability
 capable
@@ -557,6 +573,7 @@ cartoon
 cartoonist
 case
 cash
+cash register
 cashier
 casino
 casket
@@ -583,6 +600,8 @@ center
 centimeter
 century
 cereal
+cereal foods
+cereals
 ceremony
 certain
 certainly
@@ -615,6 +634,7 @@ cheap
 check
 check it out
 checkout
+checkout counter
 cheer
 cheerful
 cheerfully
@@ -630,7 +650,9 @@ chief engineer
 child
 child abuse
 child section
+chimney
 china
+china cabinet
 chinese
 chocolate
 choice
@@ -658,6 +680,7 @@ classical
 classmate
 classroom
 clean
+cleaner
 cleanse
 clear
 clear-cut
@@ -678,6 +701,7 @@ clone
 close
 closely
 clothes
+clothespin
 cloud
 cloudy
 club
@@ -689,6 +713,7 @@ code
 coerce
 coercion
 coffee
+coffee table
 coin
 coincide
 coincidence
@@ -701,6 +726,7 @@ colleague
 collect
 collection
 college
+cologne
 colony
 color
 colorful
@@ -868,6 +894,7 @@ cosplayer
 cost
 costume
 cotton
+couch
 cough
 could
 counsel
@@ -925,6 +952,7 @@ curious
 currency
 current
 curry
+curtains
 custom
 customer
 cut
@@ -932,10 +960,12 @@ cut corners
 cut down on
 cute
 cutlery
+cutting board
 cyber
 cycling
 dad
 daily
+dairy products
 damage
 dance
 dancer
@@ -990,8 +1020,10 @@ degree
 degree celsius
 delay
 delegate
+deli
 deliberately
 delicate
+delicatessen
 delicious
 delight
 deliver
@@ -1101,6 +1133,9 @@ disease
 diseased
 disgruntled
 dish
+dish rack
+dishwasher
+dishwashing liquid
 dislike
 dispatch
 display
@@ -1145,9 +1180,12 @@ down
 downturn
 dozen
 draft
+drain
+drainpipe
 drama
 dramatic
 dramatize
+drapes
 drastic
 draw
 draw up
@@ -1159,8 +1197,10 @@ dressed
 dried
 drill
 drink
+drinks
 drive
 driver
+driveway
 drop
 drop everything
 drought
@@ -1170,6 +1210,7 @@ drug-free
 drugstore
 drum
 dry
+dryer
 duck
 due
 due to
@@ -1259,6 +1300,7 @@ encounter
 encourage
 encouragement
 end
+end table
 endanger
 endless
 endure
@@ -1287,6 +1329,7 @@ enter
 enterprise
 entertain
 entertainment
+entertainment unit
 enthusiasm
 entire
 entirely
@@ -1458,6 +1501,7 @@ fatal flaw
 fatality rate
 fate
 father
+faucet
 fault
 favor
 favorit
@@ -1509,6 +1553,8 @@ fingerprint
 finish
 fire
 firearm
+fireplace
+fireplace screen
 firework
 firm
 firmly
@@ -1522,6 +1568,7 @@ five
 fix
 flag
 flame
+flashlight
 flatter
 flattery
 flaw
@@ -1531,6 +1578,7 @@ flight
 float
 flood
 floor
+floorboard
 florist
 flour
 flow
@@ -1579,6 +1627,7 @@ free throw
 freedom
 freely
 freeze
+freezer
 french
 french fries
 frequency
@@ -1596,9 +1645,11 @@ frog
 from
 front
 frontier
+frozen foods
 fruit
 frustrate
 frustrated
+fry
 fuel
 fuel-efficient
 fulfill
@@ -1629,6 +1680,7 @@ gallery
 gambling
 game
 gap
+garage
 garbage
 garden
 gas
@@ -1717,6 +1769,7 @@ greenhouse
 greenhouse effect
 greet
 greeting
+grill
 grizzly bear
 grocery
 gross
@@ -1827,6 +1880,7 @@ hit
 hit the jackpot
 hitchhike
 hobby
+hoe
 hold
 hold on
 hole
@@ -2004,6 +2058,7 @@ insomniac
 inspire
 install
 instant
+instant foods
 instead
 instead of
 instinct
@@ -2156,7 +2211,11 @@ laboratory
 lack
 lady
 lake
+lamp
+lamppost
+lampshade
 land
+landing
 landmark
 landscape
 language
@@ -2173,6 +2232,7 @@ latter
 laugh
 laughter
 launch
+laundry detergent
 law
 lawmaker
 lawsuit
@@ -2231,6 +2291,7 @@ limitation
 line
 line up
 lion
+liquor
 list 
 listen
 literally
@@ -2319,6 +2380,7 @@ maneuver
 manifest
 mannequin
 manner
+mantle
 manufacture
 manufacturing flaw
 many
@@ -2670,6 +2732,7 @@ pale
 palm print
 panda
 paper
+paper bag
 parallel
 parallel park
 paralympics
@@ -2696,6 +2759,7 @@ passion
 passive
 passport
 past
+pasta
 patch
 paternity
 paternity leave
@@ -2713,6 +2777,7 @@ peak
 peculiar
 pedophile
 pee
+peel
 pen
 penalize
 penalty
@@ -2721,6 +2786,7 @@ penetrate
 penetrating
 penetration testing
 people
+pepper shaker
 per
 perceive
 percent
@@ -2728,6 +2794,7 @@ perception
 perfect
 perform
 performance
+perfume
 period
 perish
 perk
@@ -2791,6 +2858,7 @@ plane
 planet
 plant
 plastic
+plastic bag
 plate
 play
 player
@@ -2828,6 +2896,7 @@ pop culture
 popular
 popularity
 population
+porch
 portability
 portable
 portion
@@ -3014,6 +3083,7 @@ rain forest
 rainbow
 rainy
 raise
+rake
 range
 rank
 rapid
@@ -3083,6 +3153,7 @@ reformatory program
 refresh
 refrigerate
 refrigerated section
+refrigerator
 refuse
 regard
 regardless
@@ -3226,6 +3297,7 @@ routine
 row
 royal family
 rude
+rug
 rugby
 ruin
 rule
@@ -3245,15 +3317,18 @@ salad
 sale
 sales conference
 salt
+salt shaker
 salty
 same
 sandwich
 satisfactory
 satisfy
 saturday
+saute
 save
 saving
 say
+scale
 scalpel
 scan
 scanner
@@ -3280,6 +3355,7 @@ scientific
 scientist
 scold
 score
+scramble
 scream
 screen
 sea
@@ -3296,6 +3372,7 @@ section
 secure
 securely
 security
+security light
 seduce
 seduction
 seductive
@@ -3305,6 +3382,7 @@ seed
 seek
 seek to
 seem
+seiling shower
 seldom
 select
 self
@@ -3330,6 +3408,8 @@ serious
 servant
 serve
 service
+serving cart
+serving platter
 serving utensil
 set
 set up
@@ -3356,6 +3436,7 @@ shame
 shape
 share
 she
+shellfish
 shelter
 shift
 shine
@@ -3366,16 +3447,21 @@ shock
 shoe
 shop
 shopping
+shopping basket
+shopping cart
 shore
 short
 shortage
 should
 shoulder
 shout
+shovel
 show
 show up
 showdown
 shower
+shower change lever
+shower curtain
 showroom
 shrine
 shrink
@@ -3387,6 +3473,7 @@ sick
 sick leave
 side
 side effect
+sidewalk
 siesta
 sight
 sightseeing
@@ -3434,6 +3521,7 @@ slash
 slave
 sleep
 sleepy
+slice
 slight
 slightly
 slim
@@ -3514,6 +3602,7 @@ speaking of
 special
 specialist
 specialize
+specials
 species
 specific
 speech
@@ -3569,6 +3658,7 @@ steak
 steal
 steam
 step
+stepladder
 stereotype
 stick
 stick to
@@ -3579,6 +3669,8 @@ stimuli
 stimulus
 stipulate
 stipulation
+stir
+stir fry
 stock
 stomach
 stomachache
@@ -3587,6 +3679,7 @@ stool
 stop
 store
 story
+stove
 straight
 strain
 strained
@@ -3698,6 +3791,7 @@ syringe
 system
 table
 table tennis
+tablecloth
 tailgate
 taiwan
 take
@@ -3814,6 +3908,7 @@ tie up
 tiger
 tight
 tighten
+tiled roof
 time
 time consuming
 time difference
@@ -3825,9 +3920,15 @@ tipster
 tired
 to
 to be honest
+toaster
 today
 together
 toilet
+toilet bowl
+toilet paper
+toilet paper holder
+toilet seat
+toilet seat lid
 tomato
 tomboy
 tomorrow
@@ -3840,6 +3941,7 @@ tooth
 toothache
 top
 top heavy
+topper knob
 tornade
 total
 totally
@@ -3905,6 +4007,7 @@ troop
 tropical
 tropical rain forest
 trouble
+trowel
 true
 trust
 truth
@@ -4006,6 +4109,7 @@ utter
 utterance
 vacation
 vaccine
+vacuum
 valid
 validity
 valuable
@@ -4019,6 +4123,7 @@ various
 vary
 vast
 vegetable
+vegetables
 vehicle
 veil
 vein
@@ -4079,6 +4184,7 @@ wait
 wake
 walk
 wall
+wall unit
 wallet
 wander
 want
@@ -4088,9 +4194,13 @@ warn
 warrior
 was
 wash
+washer
+washing machine
 waste
+waste container
 watch
 water
+watering can
 wave
 way
 we
@@ -4121,6 +4231,7 @@ western
 westerner
 what
 what matter is
+wheelbarrow
 when
 when it comes to
 whenever
