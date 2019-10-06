@@ -37,10 +37,12 @@ function goNextWord(type) {
   }
 }
 
-for (var i=0;i<words.length*5;i++) {
-  const a = getRandomInt(i);
-  const b = getRandomInt(i);
-  const c = words[a];
-  words[a] = words[b];
-  words[b] = c;
+for (var j=0;j<5;j++) {
+  for (var i=0;i<words.length;i++) {
+    const a = getRandomInt(i);
+    const b = getRandomInt(i);
+    const c = words[a];
+    words[a] = words[b];
+    words[b] = c;
+  }
 }
