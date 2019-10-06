@@ -21,7 +21,7 @@ function goNextWord(type) {
   }
   const w = words[n];
   n ++;
-  if (n >= word.length) n = 0;
+  if (n >= words.length) n = 0;
   setWord(w);
   if (!f) {
     setInterval(() => {
@@ -37,7 +37,7 @@ function goNextWord(type) {
   }
 }
 
-for (var i=0;i<words.length;i++) {
+for (var i=0;i<words.length*5;i++) {
   const a = getRandomInt(i);
   const b = getRandomInt(i);
   const c = words[a];
