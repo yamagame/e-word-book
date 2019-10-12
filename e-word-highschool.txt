@@ -5,8 +5,10 @@ abduct
 abduction
 able
 abnormal
+abolition
 about
 above
+above all
 abroad
 absence
 absolute
@@ -26,6 +28,7 @@ accompany
 accomplish
 according
 account
+accumulation
 accurate
 accuse
 accustomed
@@ -54,6 +57,7 @@ additional
 additive
 address
 adequate
+adjacent
 adjust
 administer
 administration
@@ -74,6 +78,7 @@ advertise
 advertisement
 advice
 advise
+advocate
 affair
 affect
 affection
@@ -88,6 +93,7 @@ afternoon
 again
 against
 age
+agency
 agenda
 agent
 aggravate
@@ -115,9 +121,11 @@ alien civilization
 alike
 alive
 all
+allergic
 allocate
 allocation
 allow
+allowance
 alloy
 almost
 alone
@@ -133,6 +141,7 @@ always
 am
 amalgamate
 amazing
+ambiguity
 ambition
 ambitious
 ambulance
@@ -153,6 +162,7 @@ ancestor
 ancient
 and
 anecdote
+anemic
 anesthesia
 anger
 angry
@@ -185,6 +195,7 @@ apart
 apartment 
 apiece
 apparent
+apparently
 appeal
 appear
 appearance
@@ -200,14 +211,17 @@ appointment
 appraise
 appreciate
 appreciation
+apprentice
 approach
 approaching
 appropriate
+appropriately
 approval
 approve
 approximate
 approximately
 april
+aptitude
 architect
 architectural
 architecture
@@ -233,11 +247,13 @@ artificial
 artist
 artwork
 as
+as well
 as well as
-ascend the throne
+ascend
 ashes to ashes
 asia
 asian
+aside from
 ask
 asleep
 aspect
@@ -259,6 +275,7 @@ assumption
 assure
 asteroid
 astonish
+astonishing
 astronaut
 at
 athlete
@@ -301,6 +318,7 @@ avoid
 avoidance
 awake
 aware
+awareness
 away
 awful
 baby
@@ -387,9 +405,11 @@ benefit
 benign
 beside
 best
+betrayal
 better
 betting ticket
 between
+beverage
 beverages
 beyond
 bias
@@ -407,6 +427,7 @@ birth
 birthday
 bite
 bitter
+bitterly
 bizarre
 black
 blackboard
@@ -420,11 +441,13 @@ blog
 blood
 blood transfusion
 blow
+blow up
 blowfish
 blue
 board
 board meeting
 boast
+boastful
 boat
 body
 body boutique
@@ -450,6 +473,7 @@ bowel
 bowel movement
 box
 boy
+brace
 brain
 brainstorm
 brainstorming
@@ -459,6 +483,7 @@ brave
 brazil
 bread
 break
+break out
 break up
 breakdown
 breakfast
@@ -520,6 +545,7 @@ buy
 buy on impulse
 buzzword
 by
+by the way
 cabin
 cabinet
 cafeteria
@@ -527,6 +553,7 @@ cake
 calamity
 calendar
 call
+call off
 calligraphy
 calm
 camera
@@ -580,14 +607,17 @@ casket
 castle
 casual
 casual friday
+casualty
 cat
 catastrophe
 catastrophic
 catch
 category
 cause
+cautious
 cave
 cease
+cedar
 ceiling
 celebrate
 celebrity
@@ -599,6 +629,7 @@ cent
 center
 centimeter
 century
+ceramic
 cereal
 cereal foods
 cereals
@@ -645,6 +676,7 @@ chemist
 chemistry
 cherry blossom
 cherry tree
+chew
 chicken
 chief engineer
 child
@@ -662,12 +694,14 @@ chorus
 chorus contest
 christmas
 christmas card
+chrysanthemum
 church
 circle
 circuit
 circumstance
 circumstantial
 citizen
+citizenship
 city
 city hall
 civil
@@ -706,7 +740,9 @@ cloud
 cloudy
 club
 club activity
+clue
 coach
+coalition
 coast
 coat
 code
@@ -714,6 +750,7 @@ coerce
 coercion
 coffee
 coffee table
+cohesive
 coin
 coincide
 coincidence
@@ -742,6 +779,7 @@ comforter
 comic
 comic book
 command
+commencement
 comment
 commerce
 commercial
@@ -763,6 +801,7 @@ company
 compare
 compared
 comparison
+compensate
 compensation
 compete
 competence
@@ -793,6 +832,7 @@ conclude
 conclusion
 concrete
 condition
+conditioning
 condo
 conduct
 conference
@@ -815,9 +855,13 @@ connection
 conscious
 consciously
 consciousness
+consecutive
 consensus
+consent
 consequence
 consequently
+conservation
+conservative
 consider
 considerable
 considerate
@@ -825,6 +869,8 @@ consideration
 consist
 consistent
 consistently
+conspicuous
+conspire
 constant
 constantly
 constipate
@@ -849,6 +895,7 @@ context
 contextual
 continent
 continual
+continually
 continue
 continuity
 continuous
@@ -885,6 +932,7 @@ corner
 corporation
 correct
 correction
+correlation
 correspond
 corresponding
 corrupt
@@ -901,6 +949,7 @@ counsel
 counseling
 counselor
 count
+count on
 counteract
 counterespionage
 counterfeit
@@ -908,12 +957,16 @@ country
 courage
 course
 court
+courteous
 cousin
 cover
 coverage
 cow
 cowl
 coworker
+crack
+cram
+cram school
 crane
 crash
 craving
@@ -931,6 +984,7 @@ criminal
 criminology
 crippling
 crisis
+criterion
 critic
 critical
 criticism
@@ -939,13 +993,18 @@ crop
 cross
 crowd
 crowded
+crucial
 crunch
 crush
 cry
 cucumber
+cuisine
+culprit
 cultivate
+cultural exchange
 culture
 cup
+curb
 cure
 curiosity
 curious
@@ -953,8 +1012,10 @@ currency
 current
 curry
 curtains
+custody
 custom
 customer
+customs form
 cut
 cut corners
 cut down on
@@ -1003,6 +1064,7 @@ decline
 decoy
 decoy router
 decrease
+dedication
 deem
 deep
 deeply
@@ -1010,6 +1072,7 @@ defeat
 defend
 defiance
 defiant
+deficit
 define
 definite
 definitely
@@ -1029,6 +1092,7 @@ delight
 deliver
 delivery
 demand
+demanding
 dementia
 democracy
 democratic
@@ -1084,16 +1148,20 @@ devoted
 devotion
 diabetes
 diabetic
+diagnose
 diagram
 dialect
 diaper
 diarrhea
 diary
 dibs
+dictate
 dictionary
 did
 die
+die out
 diet
+dietary fiber
 differ
 difference
 different
@@ -1106,6 +1174,7 @@ diminish
 dine
 dining room
 dinner
+diploma
 diplomatic
 direct
 direction
@@ -1119,9 +1188,11 @@ disappoint
 disappointed
 disaster
 disastrous
+discard
 discarded needle
 discipline
 disclose
+discomfort
 discount
 discourage
 discover
@@ -1137,6 +1208,7 @@ dish rack
 dishwasher
 dishwashing liquid
 dislike
+disobey
 dispatch
 display
 disposal
@@ -1149,10 +1221,13 @@ distance
 distant
 distinct
 distinction
+distinctive
 distinguish
+distress
 district
 disturb
 diverse
+diversify
 divide
 division
 divorce
@@ -1190,6 +1265,7 @@ drastic
 draw
 draw up
 drawer
+dreadful
 dream
 dress
 dress the part for
@@ -1202,6 +1278,7 @@ drive
 driver
 driveway
 drop
+drop by
 drop everything
 drought
 drown
@@ -1229,6 +1306,7 @@ eager
 ear
 early
 earn
+earnestly
 earth
 earthquake
 easily
@@ -1239,6 +1317,7 @@ ecology
 economic
 economics
 economy
+edible
 editor
 educate
 education
@@ -1256,6 +1335,7 @@ eighth
 eighty
 either
 elaborate
+elaborately
 elderly
 elderly people
 elect
@@ -1273,11 +1353,13 @@ elevator
 eleven
 eleventh
 eligibility
+eligible
 eliminate
 elimination
 else
 embarrass
 embarrassed
+embrace
 emerge
 emergency
 emoticon
@@ -1307,6 +1389,7 @@ endure
 enemy
 energetic
 energy
+enforce
 engaged
 engaging
 engagingly
@@ -1320,6 +1403,7 @@ enlarge
 enlargement
 enlarger
 enormous
+enormously
 enough
 enroll
 enrollment
@@ -1334,6 +1418,8 @@ enthusiasm
 entire
 entirely
 entrance
+entrust
+envious
 environment
 environmental
 environmental benefit
@@ -1359,6 +1445,7 @@ essential
 essentially
 establish
 establishment
+esteem
 estimate
 estimated
 eternal
@@ -1402,6 +1489,7 @@ except
 exception
 excess
 excessive
+excessively
 exchange
 exchangeable
 excite
@@ -1456,6 +1544,7 @@ extortion
 extortionist
 extra
 extraordinary
+extraterrestrial
 extravagance
 extravagant
 extreme
@@ -1466,8 +1555,10 @@ face
 facelift
 facility
 fact
+faction
 factor
 factory
+faculty
 fade
 fail
 failure
@@ -1477,6 +1568,7 @@ fairly
 fairy
 faith
 fall
+fall through
 false
 familiar
 family
@@ -1492,6 +1584,8 @@ farfetched
 farm
 farmer
 fascinate
+fascinating
+fascination
 fashion
 fast
 fasten
@@ -1574,6 +1668,7 @@ flattery
 flaw
 fleet
 flesh
+flier
 flight
 float
 flood
@@ -1602,6 +1697,7 @@ forehead
 foreign
 foreign aid
 foreigner
+foresee
 forest
 forever
 forfeit
@@ -1622,6 +1718,7 @@ fox
 fragrance
 framework
 france
+frantic
 free
 free throw
 freedom
@@ -1707,6 +1804,7 @@ germany
 gesture
 get
 get away
+get into
 get rid of
 get the point
 gift
@@ -1721,6 +1819,7 @@ global
 global warming
 globe
 glove
+glue
 go
 go on a rampage
 go out
@@ -1764,6 +1863,7 @@ gravity of the situation
 gray
 great
 greatly
+greedy
 green
 greenhouse
 greenhouse effect
@@ -1772,6 +1872,7 @@ greeting
 grill
 grizzly bear
 grocery
+groom
 gross
 ground
 ground rule
@@ -1780,6 +1881,7 @@ group
 grow
 grow tremendously in popularity
 growth
+grumble
 guarantee
 guard
 guess
@@ -1803,6 +1905,7 @@ hamburger
 hammer
 hand
 hand earned
+hand over
 handle
 handmade
 handout
@@ -1916,6 +2019,7 @@ how
 however
 huge
 human
+humanely
 humanitarian
 humanity
 humor
@@ -1927,6 +2031,7 @@ hunting
 hurry
 hurt
 husband
+hutch
 hydraulic
 hydraulically
 ice
@@ -1948,6 +2053,7 @@ illustrate
 image
 imagination
 imagine
+imbalance
 imitate
 immediacy
 immediate
@@ -1956,6 +2062,7 @@ immigrant
 immigration
 immortality
 immune
+immune cell
 immune system
 immunity
 immunization
@@ -1965,6 +2072,7 @@ impairment
 impartial
 impartiality
 impartially
+imperative
 imply
 import
 importance
@@ -1981,6 +2089,7 @@ improve
 improvement
 impulse
 in
+in order to
 inattentive
 incident
 incinerate
@@ -1996,6 +2105,8 @@ increase
 increasingly
 incredible
 incumbent
+incurable
+indecency
 indecent
 indeed
 independence
@@ -2045,11 +2156,14 @@ injury
 ink
 inmate
 inner
+inquiry
 ins and outs
 insect
+insecticide
 inside
 insider
 insight
+insignificant
 insist
 insistence
 insomnia
@@ -2074,6 +2188,9 @@ intellectual
 intelligence
 intelligent
 intend
+intense
+intensify
+intensive
 intention
 intentional
 intentionally
@@ -2097,6 +2214,7 @@ interstate
 interview
 intimate
 into
+intricate
 introduce
 introduction
 intrude
@@ -2147,6 +2265,7 @@ japan
 japanese
 jaw
 jeopardize
+jet lag
 jet lang
 jewelry
 jinx
@@ -2217,6 +2336,7 @@ land
 landing
 landmark
 landscape
+landslide
 language
 large
 largely
@@ -2256,6 +2376,7 @@ leg
 legal
 legal action
 legalize
+legally valid
 legislation
 legislator
 leisure
@@ -2266,12 +2387,14 @@ lesson
 let
 let's
 letter
+leukemia
 level
 leverage
 liberal
 liberty
 library
 license
+license plate
 licensee
 lie
 lie down
@@ -2298,8 +2421,10 @@ literary
 literature
 litigate
 litigation
+litter
 little
 live
+lively
 livestock
 living expenses
 living pattern
@@ -2316,6 +2441,7 @@ logical
 london
 lonely
 long
+long sleeves
 long-term
 look
 look after
@@ -2349,6 +2475,7 @@ machine
 magazine
 magic
 mahogany
+maiden name
 mail
 mailbox
 main
@@ -2360,6 +2487,7 @@ major
 major criminal
 majority
 make
+make it
 makeover
 maker
 malaysia
@@ -2411,6 +2539,7 @@ me
 meal
 mean
 meaning
+meaningful
 measure
 meat
 mechanical
@@ -2419,10 +2548,12 @@ media
 medic
 medical
 medicine
+medieval
 medium
 meet
 meet a demand
 meeting
+melancholy
 melanoma
 melt
 member
@@ -2455,8 +2586,10 @@ million
 mind
 mine
 mineral
+mingle
 minimize
 minimum
+ministry
 minor
 minority
 minute
@@ -2467,7 +2600,9 @@ mistake
 misunderstand
 mix
 model
+moderate
 modern
+modest
 modify
 mole
 molester
@@ -2488,6 +2623,7 @@ month
 mood
 moon
 moral
+morale
 moratorium
 more
 morning
@@ -2512,6 +2648,7 @@ movement
 movie
 movie theater
 much
+multiplication table
 mundane
 mundane daily necessities
 murder
@@ -2521,6 +2658,7 @@ music
 musician
 must
 mutual
+mutual fund
 my
 myself
 mysterious
@@ -2543,6 +2681,7 @@ natural therapy
 naturally
 nature
 navigation system
+navigational
 near
 nearby
 nearly
@@ -2551,6 +2690,7 @@ necessary
 necessity
 neck
 need
+needy
 negative
 neglect
 neighbor
@@ -2599,11 +2739,14 @@ notice
 notification
 notify
 notion
+nourish
 novel
 november
 now
+nowadays
 nuclear
 nuclear reactor
+nuisance
 number
 numerous
 nurse
@@ -2648,6 +2791,7 @@ office
 officer
 official
 official head
+offspring
 often
 oh
 oil
@@ -2670,6 +2814,7 @@ opportunity
 oppose
 opposite
 opposition
+oppressive
 optimist
 optimistic
 or
@@ -2695,6 +2840,7 @@ ours
 ourselves
 out
 out of this world
+outcome
 outfit
 outlet mall
 outline
@@ -2706,13 +2852,16 @@ oven
 oven mitten
 over
 overcome
+overdose
 overlook
 overseas
 oversee
+overthrow
 overturn
 overweight
 overwhelm
 overwhelming
+overwhelmingly
 owe
 owing to
 own
@@ -2720,9 +2869,11 @@ owner
 ozone
 ozone layer
 pack
+pact
 page
 pain
 painful
+painkiller
 paint
 painter
 painting
@@ -2735,8 +2886,10 @@ paper bag
 parallel
 parallel park
 paralympics
+paranoid
 pardon
 parent
+parenting
 paris
 park
 part
@@ -2754,6 +2907,7 @@ pass
 pass a sentence
 passage
 passenger
+passerby
 passion
 passive
 passport
@@ -2794,11 +2948,13 @@ perform
 performance
 perfume
 period
+periodically
 perish
 perk
 permanent
 permission
 permit
+perplex
 persist
 persistence
 persistent
@@ -2836,11 +2992,13 @@ physics
 pianist
 piano
 pick
+pick up
 picnic
 picture
 piece
 pile
 pilot
+pinch
 pink
 pinpoint
 pioneer
@@ -2858,6 +3016,7 @@ plant
 plastic
 plastic bag
 plate
+plateau
 play
 player
 pleasant
@@ -2869,10 +3028,12 @@ plenty
 plenty of
 plot out
 plunge
+pneumonia
 pocket
 poem
 point
 poison
+polar icecap
 police
 police force
 police officer
@@ -2886,6 +3047,7 @@ politicize
 politics
 polka dot
 poll
+pollen
 pollution
 polyp
 pool
@@ -2918,6 +3080,7 @@ potato
 potential
 potentiality
 potluck
+potter
 poultry
 pour
 power
@@ -2957,6 +3120,7 @@ president
 presidential
 press
 pressing problem
+prestigious
 pretend
 pretty
 prevail
@@ -2977,6 +3141,7 @@ primitive
 principal
 principle
 print
+prioritize
 priority
 prison
 prisoner
@@ -2991,7 +3156,9 @@ probably
 problem
 procedure
 proceed
+proceeds
 process
+proclaim
 produce
 product
 production
@@ -2999,6 +3166,7 @@ productivity
 profession
 professional
 professionally
+proficient
 profit
 profitable
 profligacy
@@ -3015,6 +3183,7 @@ prom
 promise
 promising
 promote
+promotion
 pronunciation
 proof
 proper
@@ -3049,6 +3218,7 @@ punishment
 purchase
 purple
 purpose
+purse
 purse strings
 purser
 pursue
@@ -3059,9 +3229,12 @@ put off
 put trust in
 qualification
 qualify
+qualitative
 quality
+quantitative
 quantity
 question
+questionnaire
 quick
 quickly
 quiet
@@ -3073,6 +3246,7 @@ rabbit
 racial
 racket
 radiation
+radical
 radio
 raft
 railroad service
@@ -3113,9 +3287,11 @@ reality
 realization
 realize
 really
+rear
 rear end
 reason
 reasonable
+reasoning
 reborn
 receive
 recent
@@ -3123,6 +3299,7 @@ recently
 recession
 recidivism
 recipe
+reckless
 recline
 recliner
 recognition
@@ -3152,15 +3329,18 @@ refresh
 refrigerate
 refrigerated section
 refrigerator
+refugee
 refuse
 regard
 regardless
+regime
 region
 regular
 regularly
 regulate
 regulation
 regulatory
+reign
 rein in
 reject
 rejection
@@ -3191,6 +3371,7 @@ remodel
 remote
 removal
 remove
+renewable
 rent
 rental
 repair
@@ -3208,9 +3389,11 @@ rescue
 research
 resemblance
 resemble
+resent
 reserve
 reside
 residence
+residency
 resident
 resist
 resistance
@@ -3220,6 +3403,7 @@ respect
 respectable
 respectful
 respective
+respectively
 respond
 response
 responsibility
@@ -3243,6 +3427,7 @@ retaliation
 retention
 retina
 retire
+retiree
 retrieve
 return
 reuse
@@ -3258,10 +3443,12 @@ revolution
 revolutionary
 revolve
 reward
+rewarding
 rice
 rice ball
 rice cake
 rich
+riddle
 ride
 right
 right to life
@@ -3319,6 +3506,7 @@ salt shaker
 salty
 same
 sandwich
+sardine
 satisfactory
 satisfy
 saturday
@@ -3364,6 +3552,7 @@ search for
 season
 seat
 second
+secondhand
 secret
 secret service
 section
@@ -3405,6 +3594,7 @@ september
 serious
 servant
 serve
+serve up
 service
 serving cart
 serving platter
@@ -3434,6 +3624,7 @@ shame
 shape
 share
 she
+sheer
 shellfish
 shelter
 shift
@@ -3450,6 +3641,7 @@ shopping cart
 shore
 short
 shortage
+shorthand
 should
 shoulder
 shout
@@ -3542,6 +3734,7 @@ snack
 snake
 snap
 sneaker
+sneeze
 sniff
 snow
 snowy
@@ -3580,6 +3773,7 @@ somewhere
 son
 song
 soon
+sophisticated
 sore throat
 sorry
 sort
@@ -3614,6 +3808,7 @@ splendid
 spoil
 sponsor
 spontaneous
+spontaneously
 spoon
 sport
 sports day
@@ -3623,15 +3818,18 @@ spot
 spread
 spring
 sprinkle
+spur
 stabilize
 stable
 stabler
 stadium
 stage
 stairs
+stake
 stalker
 stamp
 stand
+stand for
 stand out
 standard
 star
@@ -3726,6 +3924,7 @@ suddenly
 suffer
 suffer from
 sufficient
+suffocate
 sugar
 suggest
 suggestion
@@ -3757,6 +3956,7 @@ surf
 surface
 surgeon
 surgery
+surname
 surprise
 surprised
 surprising
@@ -3793,6 +3993,7 @@ tablecloth
 tailgate
 taiwan
 take
+take a break
 take away
 take over
 take part in
@@ -3801,12 +4002,15 @@ tale
 talent
 talented
 talk
+talking of
 tall
 tamper with
+tanned
 tap
 tap into
 tap water
 target
+tariff
 task
 taste
 taxi
@@ -3832,6 +4036,7 @@ tendency
 tendentious
 tender
 tennis
+tense
 tension
 tenth
 tenure
@@ -3886,6 +4091,7 @@ thirteenth
 thirtieth
 thirty
 this
+thoroughly
 those
 though
 thought
@@ -3893,6 +4099,7 @@ thousand
 threat
 threaten
 three
+throne
 through
 throw
 throw a party
@@ -3916,6 +4123,7 @@ tiny
 tip
 tipster
 tired
+tissue
 to
 to be honest
 toaster
@@ -3991,6 +4199,7 @@ travel
 treasure
 treat
 treatment
+treaty
 tree
 tremendous
 tremendously
@@ -4005,6 +4214,7 @@ troop
 tropical
 tropical rain forest
 trouble
+troublesome
 trowel
 true
 trust
@@ -4029,6 +4239,7 @@ twentieth
 twenty
 twice
 twin
+twist
 two
 type
 typhoon
@@ -4047,6 +4258,7 @@ uncle
 uncomfortable
 uncommon
 under
+under the weather
 underfed
 undergo
 undergraduate
@@ -4117,6 +4329,7 @@ variant
 variation
 variety
 various
+various kinds of
 vary
 vast
 vegetable
@@ -4163,6 +4376,7 @@ visitor
 visual
 visualize
 vital
+vividly
 vocabulary
 voice
 volcanic
@@ -4173,6 +4387,7 @@ vomit
 vote
 voter
 voyage
+voyager
 vulnerability
 vulnerable
 wage
@@ -4276,6 +4491,8 @@ wonderful
 wood
 word
 work
+work out
+workaholic
 worker
 world
 world heritage
