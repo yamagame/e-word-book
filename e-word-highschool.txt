@@ -588,7 +588,6 @@ career
 carefree
 careful
 carefully
-carful
 carpenter
 carpool
 carpool lane
@@ -619,6 +618,7 @@ cave
 cease
 cedar
 ceiling
+ceiling shower
 celebrate
 celebrity
 cell
@@ -2137,6 +2137,7 @@ inflate
 influence
 influential
 inform
+informal
 information
 information center
 information kiosk
@@ -2835,6 +2836,7 @@ orthopedic
 orthopedist
 other
 otherwise
+ought
 our
 ours
 ourselves
@@ -3569,7 +3571,6 @@ seed
 seek
 seek to
 seem
-seiling shower
 seldom
 select
 self
@@ -3889,6 +3890,7 @@ strenuous
 stress
 stretch
 strict
+strictest
 strike
 strip
 strong
