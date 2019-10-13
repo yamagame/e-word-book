@@ -204,6 +204,7 @@ var words=[
 	'appendicitis',
 	'appendix',
 	'appetite',
+	'appetizer',
 	'apple',
 	'application',
 	'apply',

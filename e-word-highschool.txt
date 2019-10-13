@@ -203,6 +203,7 @@ appendectomy
 appendicitis
 appendix
 appetite
+appetizer
 apple
 application
 apply
