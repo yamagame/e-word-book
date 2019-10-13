@@ -3664,6 +3664,7 @@ var words=[
 	'side',
 	'side effect',
 	'sidewalk',
+	'siege',
 	'siesta',
 	'sight',
 	'sightseeing',
