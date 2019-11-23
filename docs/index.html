@@ -11,15 +11,22 @@
   <link rel="stylesheet" href="index.css">
   <title>E-WordBook</title>
 </head>
-<body>
-  <div class="container">
+<body onLoad="initApp()">
+  <div class="container" id="word-container">
     <div class="element">
-      <p><a id="word" target="english-word-book" href="">English</a></p>
-      <p id="count">0/0</p>
+      <p class="english-word" ><a id="word" target="english-word-book" href="">English</a></p>
+      <p id="count" onClick="goMissWord();">0/0</p>
       <input id="YES" class="button ok" type="button" value="YES" onClick="goNextWord('YES');"/>
       <input id="NO" class="button ng" type="button" value="NO" onClick="goNextWord('NO');"/>
       <p id="time">00:00</p>
     </div>
+  </div>
+  <div class="container" id="miss-container">
+    <div class="miss-element">
+      <div id="miss" class="miss-word">
+      </div>
+    </div>
+    <input id="BACK" class="button back" type="button" value="BACK" onClick="goEnglishWord();"/>
   </div>
   <script src="e-word-data.js"></script>
   <script src="e-word.js"></script>

@@ -11,6 +11,7 @@ body {
 .container {
   display: flex;
   height: 100%;
+  flex-direction: column;
 }
 
 .element {
@@ -30,10 +31,28 @@ body {
   touch-action: manipulation;
 }
 
-p {
+p.english-word {
   font-size: 3em;
   text-align: center;
   margin-top: 0px;
+}
+
+div.miss-word {
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 0px;
+  width: 100%;
+}
+
+div.miss-element {
+  text-align: center;
+  margin: auto;
+  width: 100%;
+  overflow: auto;
+}
+
+div.miss-word > p {
+  margin: 8px;
 }
 
 a {

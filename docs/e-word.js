@@ -3,6 +3,24 @@ var a = 0;
 var f = false;
 var tim = 0;
 
+function initApp() {
+  goEnglishWord();
+}
+
+function goMissWord() {
+  var wordContainer = document.getElementById("word-container");
+  var missContainer = document.getElementById("miss-container");
+  wordContainer.style.display="none";
+  missContainer.style.display="flex";
+}
+
+function goEnglishWord() {
+  var wordContainer = document.getElementById("word-container");
+  var missContainer = document.getElementById("miss-container");
+  wordContainer.style.display="flex";
+  missContainer.style.display="none";
+}
+
 function getRandomInt(max) {
   return Math.floor(Math.random() * Math.floor(max));
 }
@@ -16,8 +34,18 @@ function setWord(w) {
 }
 
 function goNextWord(type) {
+  var word = document.getElementById("word");
   if (type === 'YES') {
     a ++;
+  } else {
+    var miss = document.getElementById("miss");
+    var node = document.createElement("p");
+    var anode = document.createElement("a");
+    anode.setAttribute("href", "https://www.google.com/search?q="+encodeURI(word.innerHTML+' 英語翻訳'));
+    anode.setAttribute("target", "english-word-book");
+    node.appendChild(anode);
+    anode.appendChild(document.createTextNode(word.innerHTML));
+    miss.appendChild(node);
   }
   const w = words[n];
   n ++;
