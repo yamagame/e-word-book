@@ -25,6 +25,32 @@ function getRandomInt(max) {
   return Math.floor(Math.random() * Math.floor(max));
 }
 
+function speak(text) {
+  if ('speechSynthesis' in window) {
+    var msg = new SpeechSynthesisUtterance();
+    var voices = window.speechSynthesis.getVoices().filter(voice => {
+      return voice.lang == 'en-US'; 
+    });
+    function utterance(voices) {
+      if (voices.length > 0 && text !== null) {
+        msg.text = text;
+        msg.voice = voices[0];
+        window.speechSynthesis.speak(msg);
+      }
+    }
+    if (voices.length <= 0) {
+      setTimeout(() => {
+        voices = window.speechSynthesis.getVoices().filter(voice => {
+          return voice.lang == 'en-US'; 
+        });
+        utterance(voices);
+      }, 1000);
+    } else {
+      utterance(voices);
+    }
+  }
+}
+
 function setWord(w) {
   var word = document.getElementById("word");
   word.innerHTML = w;
@@ -51,6 +77,7 @@ function goNextWord(type) {
   n ++;
   if (n >= words.length) n = 0;
   setWord(w);
+  speak(w);
   if (!f) {
     setInterval(() => {
       tim ++;
