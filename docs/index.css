@@ -35,6 +35,7 @@ p.english-word {
   font-size: 3em;
   text-align: center;
   margin-top: 0px;
+  margin-bottom: 60px;
 }
 
 div.miss-word {
@@ -83,9 +84,14 @@ input[type="button"]::focus {
 }
 
 p#count {
-  margin-top: 10px;
+  width: 150px;
+  border-radius: 8px;
+  margin: auto;
+  margin-bottom: 25px;
   font-size: 1.2em;
-  color: lightgray;
+  background-color: #259bff; /* Green */
+  touch-action: manipulation;
+  color: white;
 }
 
 p#time {
