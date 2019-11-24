@@ -89,7 +89,7 @@ p#count {
   margin: auto;
   margin-bottom: 25px;
   font-size: 1.2em;
-  background-color: #259bff; /* Green */
+  background-color: #259bff;
   touch-action: manipulation;
   color: white;
 }
