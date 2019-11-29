@@ -29,8 +29,17 @@
     <input id="BACK" class="button back" type="button" value="BACK" onClick="goEnglishWord();"/>
   </div>
   <script src="e-word-data.js"></script>
+  <script src="e-word-highschool.js"></script>
   <script src="e-word.js"></script>
   <script>
+    var allData = [];
+    wordsData.forEach( w => {
+      allData.push(w);
+    })
+    wordsHighschool.forEach( w => {
+      allData.push(w);
+    })
+    setData(allData);
     setWord('English');
   </script>
 </body>

@@ -33,13 +33,13 @@ function readWords(filename, easywords) {
   });
 }
 
-function writeWords(filename, words) {
+function writeWords(filename, words, variable) {
   return new Promise(resolve => {
     let writeStream = fs.createWriteStream(filename);
     writeStream.on('finish', () => {
       resolve();
     });
-    writeStream.write( `var words=[\n` );
+    writeStream.write( `var ${variable}=[\n` );
     const t = {}
     words.forEach( v => {
       if (t[v.word]) {
@@ -57,9 +57,9 @@ function writeWords(filename, words) {
 
 async function main() {
   const words1 = await readWords(path.join(__dirname, 'e-word-data.txt'), {});
-  await writeWords(path.join(__dirname, 'docs' ,'e-word-data.js'), words1);
+  await writeWords(path.join(__dirname, 'docs' ,'e-word-data.js'), words1, 'wordsData');
   const words2 = await readWords(path.join(__dirname, 'e-word-highschool.txt'), {});
-  await writeWords(path.join(__dirname, 'docs' ,'e-word-highschool.js'), words2);
+  await writeWords(path.join(__dirname, 'docs' ,'e-word-highschool.js'), words2, 'wordsHighschool');
 }
 
 main();

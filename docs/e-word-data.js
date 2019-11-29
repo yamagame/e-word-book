@@ -1,4 +1,4 @@
-var words=[
+var wordsData=[
 	'a piece of cake',
 	'abandon',
 	'abandoned',

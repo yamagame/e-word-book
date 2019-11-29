@@ -2,6 +2,7 @@ var n = 0;
 var a = 0;
 var f = false;
 var tim = 0;
+var words = [];
 
 function initApp() {
   goEnglishWord();
@@ -51,6 +52,17 @@ function speak(text) {
   }
 }
 
+function setData(_words) {
+  words = _words;
+  for (var i=0;i<words.length*3;i++) {
+    const a = getRandomInt(words.length);
+    const b = getRandomInt(words.length);
+    const c = words[a];
+    words[a] = words[b];
+    words[b] = c;
+  }
+}
+
 function setWord(w) {
   var word = document.getElementById("word");
   word.innerHTML = w;
@@ -90,12 +102,4 @@ function goNextWord(type) {
     }, 1000);
     f = true;
   }
-}
-
-for (var i=0;i<words.length*3;i++) {
-  const a = getRandomInt(words.length);
-  const b = getRandomInt(words.length);
-  const c = words[a];
-  words[a] = words[b];
-  words[b] = c;
 }

@@ -1,4 +1,4 @@
-var words=[
+var wordsHighschool=[
 	'abandon',
 	'abbreviation',
 	'abdomen',
