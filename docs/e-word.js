@@ -67,6 +67,7 @@ function setWord(w) {
   var word = document.getElementById("word");
   word.innerHTML = w;
   word.setAttribute("href", "https://www.google.com/search?q="+encodeURI(word.innerHTML+' 英語翻訳'));
+  word.setAttribute("onclick", "speak('"+word.innerHTML+"')");
   var count = document.getElementById("count");
   count.innerHTML = a+'/'+n;
 }
@@ -81,6 +82,7 @@ function goNextWord(type) {
     var anode = document.createElement("a");
     anode.setAttribute("href", "https://www.google.com/search?q="+encodeURI(word.innerHTML+' 英語翻訳'));
     anode.setAttribute("target", "english-word-book");
+    anode.setAttribute("onclick", "speak('"+word.innerHTML+"')");
     node.appendChild(anode);
     anode.appendChild(document.createTextNode(word.innerHTML));
     miss.appendChild(node);
